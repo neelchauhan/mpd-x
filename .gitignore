@@ -57,3 +57,7 @@ mpd/
 .depend*
 src/config.h
 src/mpd5*
+.vcsexport-done
+mpd-x-*.tar.gz
+mpd-x/
+
