@@ -2,25 +2,25 @@
 
 VERSION!=	cat src/Makefile | grep ^VERSION | awk '{ print $$2 }'
 
-DISTNAME=	mpd-${VERSION}
+DISTNAME=	mpd-x-${VERSION}
 TARBALL=	${DISTNAME}.tar.gz
 PORTBALL=	port.tgz
-SVN?=		svn
-SVNROOT?=	https://svn.code.sf.net/p/mpd/svn/tags
+GIT?=		git
+GITROOT?=	https://github.com/neelchauhan/mpd-x
 
 all:		${TARBALL} ${PORTBALL}
 
 ${TARBALL}:	.vcsexport-done
-	cd mpd && ${MAKE} .tarball
-	cp mpd/${TARBALL} ./${TARBALL}
+	cd mpd-x && ${MAKE} .tarball
+	cp mpd-x/${TARBALL} ./${TARBALL}
 
 .tarball:	.dist-done
 	rm -f ${TARBALL}
 	tar cvf - ${DISTNAME} | gzip --best > ${TARBALL}
 
 ${PORTBALL}:	.vcsexport-done
-	cd mpd && ${MAKE} .portball
-	cp mpd/${PORTBALL} ./${PORTBALL}
+	cd mpd-x && ${MAKE} .portball
+	cp mpd-x/${PORTBALL} ./${PORTBALL}
 
 .portball:	.dist-done
 	cd port && ${MAKE} port
@@ -30,7 +30,7 @@ ${PORTBALL}:	.vcsexport-done
 		echo ERROR: Please specify TAG in environment;		\
 		false;							\
 	fi
-	${SVN} export ${SVNROOT}/${TAG} mpd
+	${GIT} clone --branch ${TAG} ${GITROOT} mpd-x
 	touch ${.TARGET}
 
 .dist-done:	.doc-done
@@ -58,7 +58,7 @@ send:	${TARBALL}
 		tar cvf - ${.ALLSRC} | blow gatekeeper
 
 clean cleandir:
-	rm -rf mpd
+	rm -rf mpd-x
 	rm -f .vcsexport-done
 	cd doc && ${MAKE} clean
 	rm -f .doc-done
