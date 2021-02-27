@@ -4,11 +4,10 @@ VERSION!=	cat src/Makefile | grep ^VERSION | awk '{ print $$2 }'
 
 DISTNAME=	mpd-x-${VERSION}
 TARBALL=	${DISTNAME}.tar.gz
-PORTBALL=	port.tgz
 GIT?=		git
 GITROOT?=	https://github.com/neelchauhan/mpd-x
 
-all:		${TARBALL} ${PORTBALL}
+all:		${TARBALL}
 
 ${TARBALL}:	.vcsexport-done
 	cd mpd-x && ${MAKE} .tarball
@@ -17,13 +16,6 @@ ${TARBALL}:	.vcsexport-done
 .tarball:	.dist-done
 	rm -f ${TARBALL}
 	tar cvf - ${DISTNAME} | gzip --best > ${TARBALL}
-
-${PORTBALL}:	.vcsexport-done
-	cd mpd-x && ${MAKE} .portball
-	cp mpd-x/${PORTBALL} ./${PORTBALL}
-
-.portball:	.dist-done
-	cd port && ${MAKE} port
 
 .vcsexport-done:
 	@if [ -z ${TAG} ]; then						\
@@ -62,10 +54,9 @@ clean cleandir:
 	rm -f .vcsexport-done
 	cd doc && ${MAKE} clean
 	rm -f .doc-done
-	rm -rf ${DISTNAME} ${TARBALL} ${PORTBALL}
+	rm -rf ${DISTNAME} ${TARBALL}
 	rm -f .dist-done
 	cd src && ${MAKE} cleandir
-	cd port && ${MAKE} cleandir
 
 distclean:	clean
 	rm -f ${TARBALL}
