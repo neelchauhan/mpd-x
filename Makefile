@@ -2,7 +2,7 @@
 
 VERSION!=	cat src/Makefile | grep ^VERSION | awk '{ print $$2 }'
 
-DISTNAME=	mpd-x-${VERSION}
+DISTNAME=	mpdx-${VERSION}
 TARBALL=	${DISTNAME}.tar.gz
 GIT?=		git
 GITROOT?=	https://github.com/neelchauhan/mpd-x
@@ -10,8 +10,8 @@ GITROOT?=	https://github.com/neelchauhan/mpd-x
 all:		${TARBALL}
 
 ${TARBALL}:	.vcsexport-done
-	cd mpd-x && ${MAKE} .tarball
-	cp mpd-x/${TARBALL} ./${TARBALL}
+	cd mpdx && ${MAKE} .tarball
+	cp mpdx/${TARBALL} ./${TARBALL}
 
 .tarball:	.dist-done
 	rm -f ${TARBALL}
@@ -22,7 +22,7 @@ ${TARBALL}:	.vcsexport-done
 		echo ERROR: Please specify TAG in environment;		\
 		false;							\
 	fi
-	${GIT} clone --branch ${TAG} ${GITROOT} mpd-x
+	${GIT} clone --branch ${TAG} ${GITROOT} mpdx
 	touch ${.TARGET}
 
 .dist-done:	.doc-done
@@ -50,7 +50,7 @@ send:	${TARBALL}
 		tar cvf - ${.ALLSRC} | blow gatekeeper
 
 clean cleandir:
-	rm -rf mpd-x
+	rm -rf mpdx
 	rm -f .vcsexport-done
 	cd doc && ${MAKE} clean
 	rm -f .doc-done

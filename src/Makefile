@@ -7,7 +7,7 @@
 # See ``COPYRIGHT.whistle''
 #
 
-PROG?=			mpd5
+PROG?=			mpdx
 PREFIX?=		/usr/local
 LOCALBASE?=		${PREFIX}
 BINDIR?=		${PREFIX}/sbin
@@ -20,7 +20,7 @@ BINGRP!=		/usr/bin/id -n -g
 
 # Default configuration directory
 
-MPD_CONF_DIR?=		${PREFIX}/etc/mpd5
+MPD_CONF_DIR?=		${PREFIX}/etc/mpdx
 
 # Define supported physical layer types
 

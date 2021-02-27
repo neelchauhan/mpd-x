@@ -709,7 +709,7 @@ Usage(int ex)
     char		buf[100];
     size_t		k;
 
-    fprintf(stderr, "Usage: mpd5 %s\n", UsageStr);
+    fprintf(stderr, "Usage: mpdx %s\n", UsageStr);
     fprintf(stderr, "Options:\n");
     for (k = 0; k < OPTLIST_SIZE; k++) {
 	opt = OptList + k;
