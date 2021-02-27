@@ -11,7 +11,7 @@ PROG?=			mpdx
 PREFIX?=		/usr/local
 LOCALBASE?=		${PREFIX}
 BINDIR?=		${PREFIX}/sbin
-VERSION=		5.10a
+VERSION=		0.1-dev
 NOMAN=
 MK_MAN=			no
 
