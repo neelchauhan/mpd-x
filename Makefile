@@ -18,11 +18,16 @@ ${TARBALL}:	.vcsexport-done
 	tar cvf - ${DISTNAME} | gzip --best > ${TARBALL}
 
 .vcsexport-done:
-	@if [ -z ${TAG} ]; then						\
-		echo ERROR: Please specify TAG in environment;		\
+	@if [ -z ${TAG} ] ; then					\
+		echo ERROR: Please specify TAG in environment ;		\
 		false;							\
 	fi
-	${GIT} clone --branch ${TAG} ${GITROOT} mpdx
+	@if [ ${TAG} == "local" ] ; then				\
+		cp -a `pwd` /tmp/mpdx ;					\
+		mv /tmp/mpdx ./mpdx ;					\
+	else								\
+		${GIT} clone --branch ${TAG} ${GITROOT} mpdx ;		\
+	fi
 	touch ${.TARGET}
 
 .dist-done:	.doc-done
