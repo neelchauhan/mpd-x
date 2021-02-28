@@ -56,7 +56,7 @@ dkms.conf
 mpd/
 .depend*
 src/config.h
-src/mpd5*
+src/mpdx*
 .vcsexport-done
 mpd-x-*.tar.gz
 mpd-x/
