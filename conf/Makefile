@@ -1,7 +1,7 @@
 # $Id$
 
 PREFIX?=	/usr/local
-BINDIR?=	/etc/mpd5
+BINDIR?=	/etc/mpdx
 
 BINOWN!=	/usr/bin/id -n -u
 BINGRP!=	/usr/bin/id -n -g
