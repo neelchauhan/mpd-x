@@ -65,11 +65,11 @@ mpdx also includes many additional features:
 -   Clean device-type independent design
 -   Comprehensive logging
 
-mpdx was originally developed at Whistle Communications, Inc. for use in
-the Whistle InterJet. It is based on the original `iij-ppp` user-mode
-PPP code, though it has been completely rewritten since then. mpdx is now
-hosted on sourceforge.net [MPD Project
-Page](http://sourceforge.net/projects/mpd/).
+mpdx is a form of mpd5, the latter of whom was originally developed at Whistle
+Communications, Inc. for use in the Whistle InterJet. The original mpd was
+based on the original `iij-ppp` user-mode PPP code, although it was completely
+rewritten since then. mpdx is now hosted on GitHub, and mpd5 at
+[SourceForge](http://sourceforge.net/projects/mpd/).
 
 ------------------------------------------------------------------------
 
