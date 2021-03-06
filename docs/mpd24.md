@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#24}4.6. Compression (CCP) layer[]{#compression}
+## 4.6. Compression (CCP) layer
 
 This chapter describes commands that configure the Compression Control
 Protocol (CCP) layer. All of these commands apply to the currently

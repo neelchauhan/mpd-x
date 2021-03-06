@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#27}4.8. IPv6CP layer[]{#ipv6cp}
+## 4.8. IPv6CP layer[]{#ipv6cp}
 
 mpdx implements IPv6 Control Protocol (IPv6CP) for IPv6 link level
 addresses negotiation. To enable IPv6CP, `ipv6cp` option should be

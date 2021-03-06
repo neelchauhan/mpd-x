@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#36}4.12.3. Accounting Update
+## 4.12.3. Accounting Update
 
 mpdx provides summary traffic statistics in every accounting Update/Stop
 call of radius-acct or ext-acct.

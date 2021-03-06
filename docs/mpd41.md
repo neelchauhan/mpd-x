@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#41}4.16. Web server[]{#web}
+## 4.16. Web server
 
 mpdx provides HTTP interface for monitoring and control purposes. This
 chapter describes commands for configuring mpdx\'s web server.

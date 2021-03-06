@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#56}6.3.1. Special sets and targets
+## 6.3.1. Special sets and targets
 
 The `timer`, `match` and `regex` commands may specify (by omission) the
 **default set**. This set is exactly like any other set, except that it

@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#26}4.7. IPCP layer[]{#ipcp}
+## 4.7. IPCP layer
 
 This chapter describes commands that configure the IP Control Protocol
 (IPCP) layer. To enable IPCP, `ipcp` option should be enabled at the

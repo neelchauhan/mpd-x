@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#31}4.10.2. External authentication[]{#extauth}
+## 4.10.2. External authentication
 
 mpdx supports authentication and accounting by calling external scripts.
 Pathes to that scripts must be specified using

@@ -6,7 +6,7 @@ Update*\
 
 ------------------------------------------------------------------------
 
-## []{#37}4.12.4. Typed Accounting Update
+## 4.12.4. Typed Accounting Update
 
 In addition to standard Accounting Update stats, mpd is able to provide
 accounting information for any specified traffic types. Traffic types

@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#51}6.1. Script file format and execution
+## 6.1. Script file format and execution
 
 The syntax for `mpd.script` is similar to the other mpd configuration
 files. Lines beginning with a hash sign are ignored. A **label** sits on

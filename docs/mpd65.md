@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#65}8.1. ToDo[]{#todo}
+## 8.1. ToDo
 
 A list of open tasks for MPD. This is a good startpoint if you want to
 support actively the development of MPD. After completing a task post it

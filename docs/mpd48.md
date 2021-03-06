@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#48}5.6. L2TP device type commands[]{#l2tp}
+## 5.6. L2TP device type commands[]{#l2tp}
 
 This chapter describes commands that are specific to L2TP type links.
 These commands apply to the currently active link, and are only valid if

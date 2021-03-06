@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#59}6.5. Script commands
+## 6.5. Script commands
 
 **`set $variable-name string `**
 

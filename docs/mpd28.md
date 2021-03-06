@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#28}4.9. Interface layer[]{#interface}
+## 4.9. Interface layer
 
 This chapter describes commands that configure the interface layer. All
 of these commands apply to the currently active bundle.

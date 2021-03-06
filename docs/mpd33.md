@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#33}4.12. Traffic accounting[]{#trafacct}
+## 4.12. Traffic accounting
 
 mpdx supports several methods of traffic accounting:
 

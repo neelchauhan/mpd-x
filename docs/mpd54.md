@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#54}6.2.2. Match events
+## 6.2.2. Match events
 
 Match events are created with the `match` and `regex` commands. A match
 event occurs when the pattern specified in the `match` or `regex`

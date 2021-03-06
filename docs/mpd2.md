@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#2}1.1. Overview[]{#overview}
+## 1.1. Overview
 
 mpdx is a netgraph(4) based implementation of the multi-link PPP protocol
 for FreeBSD. It is designed to be both fast and flexible as it handles

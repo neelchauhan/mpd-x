@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#25}4.6.1. MPPC protocol[]{#mppc}
+## 4.6.1. MPPC protocol
 
 mpdx implements Microsoft Point-to-point compression (MPPC) CCP
 subprotol. To enable it, \'mppc\' option should be enabled at the CCP

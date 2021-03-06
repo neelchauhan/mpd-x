@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#13}3.2.2. `mpd.conf`
+## 3.2.2. `mpd.conf`
 
 An *entry* consists of a *label* followed by a sequence of mpd commands.
 A label begins at the first column and ends with a colon character.

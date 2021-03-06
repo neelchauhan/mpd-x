@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#55}6.3. Sets
+## 6.3. Sets
 
 A set is a collection of pending timer and/or match events. When any one
 event occurs, or upon execution of the appropriate `cancel` command, all

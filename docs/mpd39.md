@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#39}4.14. Network Address Translation (NAT)[]{#nat}
+## 4.14. Network Address Translation (NAT)
 
 This chapter describes commands for configuring Network Address
 Translation on mpdx\'s interfaces. NAT is implemented by `ng_nat(4)`

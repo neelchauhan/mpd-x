@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#38}4.13. IP address pools[]{#ippool}
+## 4.13. IP address pools
 
 mpdx implements dynamic IP addresses pool management. When user is
 authenticated and auth backend have not provided IP address, it can be

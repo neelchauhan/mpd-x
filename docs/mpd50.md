@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#50}6. Chat Scripting[]{#chat}
+## 6. Chat Scripting
 
 mpdx includes a powerful chat scripting language for use with links of
 type **modem**, i.e., asynchronous serial ports. The language is

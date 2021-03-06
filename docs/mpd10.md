@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#10}3.1. Invoking mpd[]{#invoke}
+## 3.1. Invoking mpd
 
 mpdx is invoked by first setting up your configuration files, and then
 running

@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#53}6.2.1. Timer events
+## 6.2.1. Timer events
 
 Timer events are created with the `timer` command. The timer event
 occurs when the designated time has elapsed, starting from the time at

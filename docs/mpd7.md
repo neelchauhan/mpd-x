@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#7}2.2. Installing mpd[]{#installing}
+## 2.2. Installing mpd
 
 If you use the FreeBSD package or port, mpd will be automatically
 installed into `/usr/local/sbin/mpd5`. with the default set of device

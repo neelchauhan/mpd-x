@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#18}4.1. General mpd commands[]{#gencmd}
+## 4.1. General mpd commands
 
 This chapter describes general mpd commands that do not apply to a
 specific layer.

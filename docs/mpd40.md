@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#40}4.15. Control console[]{#console}
+## 4.15. Control console
 
 This chapter describes commands for configuring mpdx\'s console. The
 console can be accessed via IPv4 or IPv6 using telnet. Multiple telnet

@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#11}3.2. Configuration file format[]{#configfmt}
+## 3.2. Configuration file format
 
 mpdx uses three different configuration files when it executes. These
 files are described below.

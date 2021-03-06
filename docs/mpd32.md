@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#32}4.11. Dynamic Authorization[]{#dynauth}
+## 4.11. Dynamic Authorization
 
 After session has been first time authorized by AAA subsystem, mpdx
 provides you several ways to affect it\'s further operation. Process of

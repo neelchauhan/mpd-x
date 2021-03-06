@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#19}4.2. mpdx Layers[]{#layers}
+## 4.2. mpdx Layers
 
 mpdx consists of several **layers**, corresponding to the layered nature
 of the PPP protocol. There are two types of layers hierarchy connected

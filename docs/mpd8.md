@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#8}2.3. Building mpd[]{#building}
+## 2.3. Building mpd
 
 If you choose to build mpd yourself to customize it, the process is
 straightforward. First, edit the `Makefile` to define (or undefine) the

@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#61}6.7. The included `mpd.script`
+## 6.7. The included `mpd.script`
 
 The `mpd.script` that ships with mpd can usually be used as it is
 without modification for typical PPP applications. This script defines

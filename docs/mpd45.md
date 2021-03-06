@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#45}5.3. TCP device type commands[]{#tcp}
+## 5.3. TCP device type commands
 
 This chapter describes commands that are specific to TCP type links.
 These commands apply to the currently active link, and are only valid if

@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#15}3.2.4. `mpd.script`
+## 3.2.4. `mpd.script`
 
 This file has a format similar to `mpd.conf`, but it contains chat
 script commands instead of mpd commands. Each line contains a single

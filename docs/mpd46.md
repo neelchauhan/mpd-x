@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#46}5.4. UDP device type commands[]{#udp}
+## 5.4. UDP device type commands
 
 This chapter describes commands that are specific to UDP type links.
 These commands apply to the currently active link, and are only valid if

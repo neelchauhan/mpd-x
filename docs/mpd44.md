@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#44}5.2. Netgraph device type commands[]{#netgraph}
+## 5.2. Netgraph device type commands
 
 This chapter describes commands that are specific to netgraph type
 links. These commands apply to the currently active link, and are only

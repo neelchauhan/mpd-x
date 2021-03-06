@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#49}5.7. PPPoE device type commands[]{#pppoe}
+## 5.7. PPPoE device type commands
 
 This chapter describes commands that are specific to PPPoE type links.
 These commands apply to the currently active link, and are only valid if

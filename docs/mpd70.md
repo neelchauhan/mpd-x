@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#70}9.2. Credits[]{#credits}
+## 9.2. Credits
 
 -   EAP, RADIUS enhancements, basework for mpdx4 was sponsored by
     [SURFnet](http://www.surfnet.nl/).

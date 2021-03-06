@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#21}4.3.1. EAP[]{#eap}
+## 4.3.1. EAP
 
 This chapter describes commands that configure the EAP (Extensible
 Authentication Protocol). mpdx supports natively only the EAP-Type MD5;

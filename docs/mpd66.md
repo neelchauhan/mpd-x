@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#66}8.2. Authentication[]{#authentication}
+## 8.2. Authentication
 
 This chapter describes implementation specific details of MPD.
 

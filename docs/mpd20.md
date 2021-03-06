@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#20}4.3. Link layer[]{#links}
+## 4.3. Link layer
 
 This chapter describes commands that configure the link layer. All of
 these commands apply to the currently active link, i.e., the link shown

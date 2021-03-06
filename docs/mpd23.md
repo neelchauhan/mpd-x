@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#23}4.5. Encryption (ECP) layer[]{#encryption}
+## 4.5. Encryption (ECP) layer
 
 This chapter describes commands that configure the Encryption Control
 Protocol (ECP) layer. All of these commands apply to the currently

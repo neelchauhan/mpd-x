@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#4}1.3. Change history[]{#changes}
+## 1.3. Change history
 
 Changes since version 5.8:
 

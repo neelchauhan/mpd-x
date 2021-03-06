@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#63}7.1. Troubleshooting[]{#trouble}
+## 7.1. Troubleshooting
 
 Some tips for troubleshooting.
 

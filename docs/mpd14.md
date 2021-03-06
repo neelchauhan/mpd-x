@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#14}3.2.3. `mpd.secret`
+## 3.2.3. `mpd.secret`
 
 This file contains login, password pairs, one entry per line. Each entry
 may have an optional third argument, which is an IP address with

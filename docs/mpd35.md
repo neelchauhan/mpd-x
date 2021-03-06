@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#35}4.12.2. IP Accounting[]{#ipacct}
+## 4.12.2. IP Accounting
 
 IP Accounting accumulates traffic information in kernel buffer. This
 buffer can be periodically read and flushed by some other program. IP

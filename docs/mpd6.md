@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#6}2.1. Getting mpd[]{#getting}
+## 2.1. Getting mpd
 
 mpdx is supplied as a **[FreeBSD port](http://www.freebsd.org/ports)**,
 under the name **`net/mpd5`**. Therefore, the simplest way to get mpd

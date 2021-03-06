@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#52}6.2. Events
+## 6.2. Events
 
 An **event** is either the expiration of a timer, or the matching of
 some pattern in the input. Events that have not happened yet are

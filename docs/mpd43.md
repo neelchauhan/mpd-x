@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#43}5.1. Modem type commands[]{#modem}
+## 5.1. Modem type commands
 
 This chapter describes commands that are specific to modem type links.
 These commands apply to the currently active link, and are only valid if

@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#29}4.10. Authentication, Authorization and Accounting (AAA)[]{#auth}
+## 4.10. Authentication, Authorization and Accounting (AAA)
 
 mpdx currently supports authentication against (tried in this order)
 [external script](mpd31.md#extauth), [RADIUS](mpd30.md#radius), PAM,

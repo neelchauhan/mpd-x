@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#12}3.2.1. General properties
+## 3.2.1. General properties
 
 For all of the configuration files, the following things are true:
 

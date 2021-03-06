@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#3}1.2. Organization of this manual[]{#manorg}
+## 1.2. Organization of this manual
 
 This remainder of manual is separated into five sections:
 

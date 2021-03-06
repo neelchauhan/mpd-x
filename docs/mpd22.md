@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#22}4.4. Bundle layer[]{#bundle}
+## 4.4. Bundle layer
 
 This chapter describes commands that configure the bundle layer. All of
 these commands (except **`new`**) apply to the currently active bundle,

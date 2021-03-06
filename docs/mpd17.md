@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#17}4. Configuring mpdx
+## 4. Configuring mpdx
 
 ### 4.1. [General mpd commands](mpd18.md#18)
 

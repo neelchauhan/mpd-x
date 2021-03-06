@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#47}5.5. PPTP device type commands[]{#pptp}
+## 5.5. PPTP device type commands
 
 This chapter describes commands that are specific to PPTP type links.
 These commands apply to the currently active link, and are only valid if

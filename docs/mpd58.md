@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#58}6.4.1. Special variables
+## 6.4.1. Special variables
 
 These variables have special meaning in chat scripts:
 

@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#57}6.4. Variables
+## 6.4. Variables
 
 **Variables** hold simple strings. They are global and come in two
 types: **temporary** and **permanent**. Permanent variables persist over

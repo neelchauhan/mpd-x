@@ -7,7 +7,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#30}4.10.1. RADIUS[]{#radius}
+## 4.10.1. RADIUS
 
 This chapter describes RADIUS authentication backend. mpdx supports both
 user authentication and session accounting using RADIUS.

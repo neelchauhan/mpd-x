@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#67}8.3. Hints for developers[]{#developer}
+## 8.3. Hints for developers
 
 This chapter describes describes some hints for developers.
 

@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#16}3.3. mpdx command line interface[]{#cli}
+## 3.3. mpdx command line interface
 
 mpdx provides to user a command line interface on stdin and TCP port.
 Here mpd commands can be entered to configure the various layers and

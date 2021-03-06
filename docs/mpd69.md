@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------
 
-## []{#69}9.1. References[]{#refs}
+## 9.1. References
 
 The PPP protocol is documented in a slew of RFC\'s. Some of these are
 listed below.
