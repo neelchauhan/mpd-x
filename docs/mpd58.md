@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** [*Variables*](mpd57.md) **:** *Special variables*\
 **Previous:** [*Variables*](mpd57.md)\
 **Next:** [*Script commands*](mpd59.md)
@@ -69,7 +69,7 @@ These variables have special meaning in chat scripts:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** [*Variables*](mpd57.md) **:** *Special variables*\
 **Previous:** [*Variables*](mpd57.md)\
 **Next:** [*Script commands*](mpd59.md)

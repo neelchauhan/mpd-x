@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
 *Authentication*\
 **Previous:** [*ToDo*](mpd65.md)\
 **Next:** [*Hints for developers*](mpd67.md)
@@ -44,7 +44,7 @@ This chapter describes implementation specific details of MPD.
     via login.conf: `passwd_format=nth`). However MPD does not currently
     support authentication against the UNIX password database.
 
-    EAP is an Extensible Authentication Protocol. Mpd supports natively
+    EAP is an Extensible Authentication Protocol. mpdx supports natively
     only the EAP-Type MD5; other EAP-Types may be used in conjunction
     with a RADIUS server.
 
@@ -62,7 +62,7 @@ This chapter describes implementation specific details of MPD.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
 *Authentication*\
 **Previous:** [*ToDo*](mpd65.md)\
 **Next:** [*Hints for developers*](mpd67.md)

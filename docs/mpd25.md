@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Compression (CCP) layer*](mpd24.md) **:** *MPPC protocol*\
 **Previous:** [*Compression (CCP) layer*](mpd24.md)\
 **Next:** [*IPCP layer*](mpd26.md)
@@ -7,7 +7,7 @@
 
 ## []{#25}4.6.1. MPPC protocol[]{#mppc}
 
-Mpd implements Microsoft Point-to-point compression (MPPC) CCP
+mpdx implements Microsoft Point-to-point compression (MPPC) CCP
 subprotol. To enable it, \'mppc\' option should be enabled at the CCP
 layer.
 
@@ -88,14 +88,14 @@ them using options below.
 
 **`policy`**
 
-:   If enabled, Mpd uses the MPPE-Types and MPPE-Policy info from the
+:   If enabled, mpdx uses the MPPE-Types and MPPE-Policy info from the
     authentication backend.
 
     The default is disable.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Compression (CCP) layer*](mpd24.md) **:** *MPPC protocol*\
 **Previous:** [*Compression (CCP) layer*](mpd24.md)\
 **Next:** [*IPCP layer*](mpd26.md)

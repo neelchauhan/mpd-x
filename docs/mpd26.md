@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *IPCP layer*\
 **Previous:** [*MPPC protocol*](mpd25.md)\
 **Next:** [*IPv6CP layer*](mpd27.md)
@@ -130,7 +130,7 @@ The options available at the IPCP layer are:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *IPCP layer*\
 **Previous:** [*MPPC protocol*](mpd25.md)\
 **Next:** [*IPv6CP layer*](mpd27.md)

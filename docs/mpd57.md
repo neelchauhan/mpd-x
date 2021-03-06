@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Variables*\
 **Previous:** [*Special sets and targets*](mpd56.md)\
 **Next:** [*Special variables*](mpd58.md)
@@ -29,7 +29,7 @@ Examples:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Variables*\
 **Previous:** [*Special sets and targets*](mpd56.md)\
 **Next:** [*Special variables*](mpd58.md)

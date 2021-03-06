@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Traffic accounting*](mpd33.md) **:** *NetFlow*\
 **Previous:** [*Traffic accounting*](mpd33.md)\
 **Next:** [*IP Accounting*](mpd35.md)
@@ -67,7 +67,7 @@ newer. NetFlow v9 supported only on FreeBSD 9.0-RELEASE and newer.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Traffic accounting*](mpd33.md) **:** *NetFlow*\
 **Previous:** [*Traffic accounting*](mpd33.md)\
 **Next:** [*IP Accounting*](mpd35.md)

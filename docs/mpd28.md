@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Interface layer*\
 **Previous:** [*IPv6CP layer*](mpd27.md)\
 **Next:** [*Authentication, Authorization and Accounting
@@ -123,7 +123,7 @@ Protocol (IPCP) layer](mpd26.md#ipcp) which is specific to IP.
 
 **`set iface down-script script `**
 
-:   Mpd can optionally run a user program every time one of network
+:   mpdx can optionally run a user program every time one of network
     protocols (IPCP/IPv6CP) at the interface is brought up or down. The
     `up-script` is called like this:
 
@@ -242,7 +242,7 @@ The options available at the interface layer are:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Interface layer*\
 **Previous:** [*IPv6CP layer*](mpd27.md)\
 **Next:** [*Authentication, Authorization and Accounting

@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
 [*Configuration file format*](mpd11.md) **:** *`mpd.secret`*\
 **Previous:** [*`mpd.conf`*](mpd13.md)\
 **Next:** [*`mpd.script`*](mpd15.md)
@@ -48,7 +48,7 @@ in this case the command line would be
 \`\``/usr/local/etc/mpd/get_passwd.sh gregory`\'\'). The command string
 may include initial, fixed arguments as well. This program should print
 the plaintext password for the named user as a single line to standard
-output, and then exit. `Mpd` will block for this operation, so the
+output, and then exit. `mpdx` will block for this operation, so the
 program should respond and exit quickly. If there is an error, the
 command should print an empty line, or just not print anything.
 
@@ -67,7 +67,7 @@ to users on the local machine running `ps(1)`.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
 [*Configuration file format*](mpd11.md) **:** *`mpd.secret`*\
 **Previous:** [*`mpd.conf`*](mpd13.md)\
 **Next:** [*`mpd.script`*](mpd15.md)

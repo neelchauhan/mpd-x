@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** *References*\
+[*mpdx User Manual*](README.md) **:** *References*\
 **Previous:** [*Hints for developers*](mpd67.md)\
 **Next:** [*References*](mpd69.md)
 
@@ -12,6 +12,6 @@
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** *References*\
+[*mpdx User Manual*](README.md) **:** *References*\
 **Previous:** [*Hints for developers*](mpd67.md)\
 **Next:** [*References*](mpd69.md)

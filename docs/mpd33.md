@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Traffic accounting*\
 **Previous:** [*Dynamic Authorization*](mpd32.md)\
 **Next:** [*NetFlow*](mpd34.md)
@@ -7,7 +7,7 @@
 
 ## []{#33}4.12. Traffic accounting[]{#trafacct}
 
-Mpd supports several methods of traffic accounting:
+mpdx supports several methods of traffic accounting:
 
 ### 4.12.1. [NetFlow](mpd34.md#34)
 
@@ -19,7 +19,7 @@ Mpd supports several methods of traffic accounting:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Traffic accounting*\
 **Previous:** [*Dynamic Authorization*](mpd32.md)\
 **Next:** [*NetFlow*](mpd34.md)

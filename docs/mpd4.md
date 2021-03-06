@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Introduction*](mpd1.md)
+[*mpdx User Manual*](README.md) **:** [*Introduction*](mpd1.md)
 **:** *Change history*\
 **Previous:** [*Organization of this manual*](mpd3.md)\
 **Next:** [*Installation*](mpd5.md)
@@ -444,7 +444,7 @@ Changes since version 4.1:
         functions.
     -   Where possible system() calls replaced by fork()+execv() to
         avoid shell execution.
-    -   Added connect requests storm overload protection. Mpd will drop
+    -   Added connect requests storm overload protection. mpdx will drop
         incoming requests when message queue reach some defined length.
 
 Changes since version 4.1rc2:
@@ -455,7 +455,7 @@ Changes since version 4.1rc2:
 -   Bugfixes:
     -   Better up/down reason tracking.
 
-Mpd version was bumped from 4.0rc2 to 4.1rc2 due to large number of
+mpdx version was bumped from 4.0rc2 to 4.1rc2 due to large number of
 changes done since 4.0b4 and FreeBSD ports version number conflict.
 
 Changes since version 4.0rc1:
@@ -611,13 +611,13 @@ Changes since version 4.0b1:
 Changes since version 3 (most of this work was sponsored by
 [SURFnet](http://www.surfnet.nl/)):
 
--   Design changes: Mpd uses now a thread-based event system using
+-   Design changes: mpdx uses now a thread-based event system using
     libpdel, these libpdel parts are now integrated:
     -   typed_mem(3)
     -   pevent(3)
     -   alog(3)
 
-    Mpd uses a \"Giant Mutex\" for protecting its resources.
+    mpdx uses a \"Giant Mutex\" for protecting its resources.
 -   Major new features:
     -   Implemented the Extensible Authentication Protocol RFC 2284
         (EAP). Currently only EAP-MD5 is supported (client and server
@@ -630,20 +630,20 @@ Changes since version 3 (most of this work was sponsored by
     -   Make authentication and accounting requests asynchronous using
         paction(3).
     -   Authentication backends are acting now independently from the
-        rest of Mpd, using some internal structs as interface.
+        rest of mpdx, using some internal structs as interface.
     -   The `mpd.secret` file is now used as one authentication backends
         of many, it has no special role anymore, i.e. it could be
         disabled.
     -   Generate a session-id at bundle and link level for using with
         accounting requests.
 -   RADIUS related changes:
-    -   **IMPORTANT**: Mpd needs now an enhanced libradius, here are the
+    -   **IMPORTANT**: mpdx needs now an enhanced libradius, here are the
         patchsets: `4-STABLE` `5-CURRENT`
     -   Remember and send the RAD_STATE attribute.
     -   Message-Authenticator support.
     -   EAP Proxy Support.
 -   Added a new option for PPTP links for disabling the windowing
-    mechanism specified by the protocol. Disabling this will cause Mpd
+    mechanism specified by the protocol. Disabling this will cause mpdx
     to violate the protocol, possibly confusing other PPTP peers, but
     often results in better performance. The windowing mechanism is a
     design error in the PPTP protocol; L2TP, the successor to PPTP,
@@ -666,7 +666,7 @@ Changes since version 3 (most of this work was sponsored by
     -   ccp to auth: `radius` and renamed to `mppc-pol`
 
     New configuration parameters:
-    -   link: `keep-ms-domain`, this prevents Mpd from stripping the
+    -   link: `keep-ms-domain`, this prevents mpdx from stripping the
         MS-Domain, this is can be useful when using IAS as RADIUS
         server.
     -   radius: `message-authentic`, this adds the Message-Authenticator
@@ -679,12 +679,12 @@ Changes since version 3 (most of this work was sponsored by
     -   auth: `utmp-wtmp`, enables/disables utmp/wtmp logging. database.
     -   auth: `timeout`, configureable timeout for the authentication
         phase.
-    -   eap: `radius-proxy`, this causes Mpd to proxy all EAP requests
-        to the RADIUS server, Mpd only makes the initial
+    -   eap: `radius-proxy`, this causes mpdx to proxy all EAP requests
+        to the RADIUS server, mpdx only makes the initial
         Identity-Request (this saves one round-trip), every other
         requests are forwarded to the RADIUS server. This adds the
         possibility supporting every EAP-Type of the RADIUS server,
-        without implementing each EAP-Type into Mpd.
+        without implementing each EAP-Type into mpdx.
     -   eap: `md5`, EAP-Type MD5, it\'s the same as CHAP-MD5, but inside
         EAP frames.
 -   Removed defines `ENCRYPTION_MPPE` and `COMPRESSION_MPPC`, they are
@@ -694,7 +694,7 @@ Changes since version 3 (most of this work was sponsored by
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Introduction*](mpd1.md)
+[*mpdx User Manual*](README.md) **:** [*Introduction*](mpd1.md)
 **:** *Change history*\
 **Previous:** [*Organization of this manual*](mpd3.md)\
 **Next:** [*Installation*](mpd5.md)

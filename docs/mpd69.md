@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*References*](mpd68.md) **:**
+[*mpdx User Manual*](README.md) **:** [*References*](mpd68.md) **:**
 *References*\
 **Previous:** [*References*](mpd68.md)\
 **Next:** [*Credits*](mpd70.md)
@@ -95,7 +95,7 @@ RADIUS](http://www.ietf.org/rfc/rfc3576.txt)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*References*](mpd68.md) **:**
+[*mpdx User Manual*](README.md) **:** [*References*](mpd68.md) **:**
 *References*\
 **Previous:** [*References*](mpd68.md)\
 **Next:** [*Credits*](mpd70.md)

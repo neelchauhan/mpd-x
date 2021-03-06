@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
 [*Configuration file format*](mpd11.md) **:** *`mpd.conf`*\
 **Previous:** [*General properties*](mpd12.md)\
 **Next:** [*`mpd.secret`*](mpd14.md)
@@ -48,7 +48,7 @@ context.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
 [*Configuration file format*](mpd11.md) **:** *`mpd.conf`*\
 **Previous:** [*General properties*](mpd12.md)\
 **Next:** [*`mpd.secret`*](mpd14.md)

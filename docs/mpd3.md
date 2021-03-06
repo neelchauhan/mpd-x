@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Introduction*](mpd1.md)
+[*mpdx User Manual*](README.md) **:** [*Introduction*](mpd1.md)
 **:** *Organization of this manual*\
 **Previous:** [*Overview*](mpd2.md)\
 **Next:** [*Change history*](mpd4.md)
@@ -21,7 +21,7 @@ This remainder of manual is separated into five sections:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Introduction*](mpd1.md)
+[*mpdx User Manual*](README.md) **:** [*Introduction*](mpd1.md)
 **:** *Organization of this manual*\
 **Previous:** [*Overview*](mpd2.md)\
 **Next:** [*Change history*](mpd4.md)

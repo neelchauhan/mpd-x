@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** *Chat Scripting*\
+[*mpdx User Manual*](README.md) **:** *Chat Scripting*\
 **Previous:** [*PPPoE device type commands*](mpd49.md)\
 **Next:** [*Script file format and execution*](mpd51.md)
 
@@ -6,7 +6,7 @@
 
 ## []{#50}6. Chat Scripting[]{#chat}
 
-Mpd includes a powerful chat scripting language for use with links of
+mpdx includes a powerful chat scripting language for use with links of
 type **modem**, i.e., asynchronous serial ports. The language is
 interpreted and executed dynamically and supports fully event driven
 processing with timeouts and regular expression pattern matching.
@@ -38,6 +38,6 @@ the `mpd.script` file that is included with mpd.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** *Chat Scripting*\
+[*mpdx User Manual*](README.md) **:** *Chat Scripting*\
 **Previous:** [*PPPoE device type commands*](mpd49.md)\
 **Next:** [*Script file format and execution*](mpd51.md)

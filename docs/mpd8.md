@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Installation*](mpd5.md)
+[*mpdx User Manual*](README.md) **:** [*Installation*](mpd5.md)
 **:** *Building mpd*\
 **Previous:** [*Installing mpd*](mpd7.md)\
-**Next:** [*Running Mpd*](mpd9.md)
+**Next:** [*Running mpdx*](mpd9.md)
 
 ------------------------------------------------------------------------
 
@@ -53,12 +53,12 @@ The various build-time definitions in the Makefile are below:
 
 **`SYSLOG_FACILITY`**
 
-:   Mpd normally logs via `syslog(3)` using the facility `LOG_DAEMON`.
+:   mpdx normally logs via `syslog(3)` using the facility `LOG_DAEMON`.
     You can customize the facility here.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Installation*](mpd5.md)
+[*mpdx User Manual*](README.md) **:** [*Installation*](mpd5.md)
 **:** *Building mpd*\
 **Previous:** [*Installing mpd*](mpd7.md)\
-**Next:** [*Running Mpd*](mpd9.md)
+**Next:** [*Running mpdx*](mpd9.md)

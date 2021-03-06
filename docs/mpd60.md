@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Errors*\
 **Previous:** [*Script commands*](mpd59.md)\
 **Next:** [*The included `mpd.script`*](mpd61.md)
@@ -19,7 +19,7 @@ Examples of errors include:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Errors*\
 **Previous:** [*Script commands*](mpd59.md)\
 **Next:** [*The included `mpd.script`*](mpd61.md)

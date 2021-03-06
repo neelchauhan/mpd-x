@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** *Installation*\
+[*mpdx User Manual*](README.md) **:** *Installation*\
 **Previous:** [*Change history*](mpd4.md)\
 **Next:** [*Getting mpd*](mpd6.md)
 
@@ -14,6 +14,6 @@
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** *Installation*\
+[*mpdx User Manual*](README.md) **:** *Installation*\
 **Previous:** [*Change history*](mpd4.md)\
 **Next:** [*Getting mpd*](mpd6.md)

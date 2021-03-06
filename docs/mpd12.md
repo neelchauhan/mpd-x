@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
 [*Configuration file format*](mpd11.md) **:** *General properties*\
 **Previous:** [*Configuration file format*](mpd11.md)\
 **Next:** [*`mpd.conf`*](mpd13.md)
@@ -16,7 +16,7 @@ For all of the configuration files, the following things are true:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
 [*Configuration file format*](mpd11.md) **:** *General properties*\
 **Previous:** [*Configuration file format*](mpd11.md)\
 **Next:** [*`mpd.conf`*](mpd13.md)

@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** *Internals*\
+[*mpdx User Manual*](README.md) **:** *Internals*\
 **Previous:** [*Troubleshooting*](mpd63.md)\
 **Next:** [*ToDo*](mpd65.md)
 
@@ -14,6 +14,6 @@
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** *Internals*\
+[*mpdx User Manual*](README.md) **:** *Internals*\
 **Previous:** [*Troubleshooting*](mpd63.md)\
 **Next:** [*ToDo*](mpd65.md)

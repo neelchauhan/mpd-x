@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
 [*Configuration file format*](mpd11.md) **:** *`mpd.script`*\
 **Previous:** [*`mpd.secret`*](mpd14.md)\
-**Next:** [*Mpd command line interface*](mpd16.md)
+**Next:** [*mpdx command line interface*](mpd16.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ scripting.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
 [*Configuration file format*](mpd11.md) **:** *`mpd.script`*\
 **Previous:** [*`mpd.secret`*](mpd14.md)\
-**Next:** [*Mpd command line interface*](mpd16.md)
+**Next:** [*mpdx command line interface*](mpd16.md)

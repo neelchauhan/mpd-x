@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Network Address Translation (NAT)*\
 **Previous:** [*IP address pools*](mpd38.md)\
 **Next:** [*Control console*](mpd40.md)
@@ -8,7 +8,7 @@
 ## []{#39}4.14. Network Address Translation (NAT)[]{#nat}
 
 This chapter describes commands for configuring Network Address
-Translation on Mpd\'s interfaces. NAT is implemented by `ng_nat(4)`
+Translation on mpdx\'s interfaces. NAT is implemented by `ng_nat(4)`
 node. To enable it on a particular interface `nat` option should be
 used.
 
@@ -90,7 +90,7 @@ The following options are supported:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Network Address Translation (NAT)*\
 **Previous:** [*IP address pools*](mpd38.md)\
 **Next:** [*Control console*](mpd40.md)

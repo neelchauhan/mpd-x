@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Events*\
 **Previous:** [*Script file format and execution*](mpd51.md)\
 **Next:** [*Timer events*](mpd53.md)
@@ -36,7 +36,7 @@ set are immediately cancelled.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Events*\
 **Previous:** [*Script file format and execution*](mpd51.md)\
 **Next:** [*Timer events*](mpd53.md)

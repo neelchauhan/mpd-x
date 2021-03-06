@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
+[*mpdx User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *L2TP device type commands*\
 **Previous:** [*PPTP device type commands*](mpd47.md)\
 **Next:** [*PPPoE device type commands*](mpd49.md)
@@ -29,7 +29,7 @@ be simplified to:
 
     client (LAC emulator) <- L2TP tunnel -> LNS
 
-Mpd is able to operate in both LAC and LNS modes. As LAC mpd supports
+mpdx is able to operate in both LAC and LNS modes. As LAC mpd supports
 both simple case LAC emulator and complete LAC topologies. Complete LAC
 can be configured by joining two physical devices using mpd\'s repeater
 functionality.
@@ -155,7 +155,7 @@ The following options are supported:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
+[*mpdx User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *L2TP device type commands*\
 **Previous:** [*PPTP device type commands*](mpd47.md)\
 **Next:** [*PPPoE device type commands*](mpd49.md)

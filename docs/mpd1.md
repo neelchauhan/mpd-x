@@ -1,5 +1,5 @@
-[*Mpd 5.9 User Manual*](README.md) **:** *Introduction*\
-**Previous:** [*Mpd 5.9 User Manual*](README.md)\
+[*mpdx User Manual*](README.md) **:** *Introduction*\
+**Previous:** [*mpdx User Manual*](README.md)\
 **Next:** [*Overview*](mpd2.md)
 
 ------------------------------------------------------------------------
@@ -14,6 +14,6 @@
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** *Introduction*\
-**Previous:** [*Mpd 5.9 User Manual*](README.md)\
+[*mpdx User Manual*](README.md) **:** *Introduction*\
+**Previous:** [*mpdx User Manual*](README.md)\
 **Next:** [*Overview*](mpd2.md)

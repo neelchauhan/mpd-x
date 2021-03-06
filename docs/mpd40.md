@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Control console*\
 **Previous:** [*Network Address Translation (NAT)*](mpd39.md)\
 **Next:** [*Web server*](mpd41.md)
@@ -7,7 +7,7 @@
 
 ## []{#40}4.15. Control console[]{#console}
 
-This chapter describes commands for configuring Mpd\'s console. The
+This chapter describes commands for configuring mpdx\'s console. The
 console can be accessed via IPv4 or IPv6 using telnet. Multiple telnet
 connections are allowed.
 
@@ -54,7 +54,7 @@ connections are allowed.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Control console*\
 **Previous:** [*Network Address Translation (NAT)*](mpd39.md)\
 **Next:** [*Web server*](mpd41.md)

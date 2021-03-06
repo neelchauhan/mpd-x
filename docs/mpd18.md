@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *General mpd commands*\
-**Previous:** [*Configuring Mpd*](mpd17.md)\
-**Next:** [*Mpd Layers*](mpd19.md)
+**Previous:** [*Configuring mpdx*](mpd17.md)\
+**Next:** [*mpdx Layers*](mpd19.md)
 
 ------------------------------------------------------------------------
 
@@ -451,7 +451,7 @@ specific layer.
 
 **`log [ +/-flag ... ] `**
 
-:   Mpd supports several different logging flags. Every line logged by
+:   mpdx supports several different logging flags. Every line logged by
     mpd is tagged with one (or more) of these flags. By turning the
     flags on or off, that particular type of logging is enabled or
     disabled. This allows you to customize logging verbosity.
@@ -547,7 +547,7 @@ specific layer.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *General mpd commands*\
-**Previous:** [*Configuring Mpd*](mpd17.md)\
-**Next:** [*Mpd Layers*](mpd19.md)
+**Previous:** [*Configuring mpdx*](mpd17.md)\
+**Next:** [*mpdx Layers*](mpd19.md)

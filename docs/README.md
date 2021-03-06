@@ -25,19 +25,19 @@ system version to get access to all mpd features.*
 
 2.3. [Building mpd](mpd8.md#8)
 
-### 3. [Running Mpd](mpd9.md#9)
+### 3. [Running mpdx](mpd9.md#9)
 
 3.1. [Invoking mpd](mpd10.md#10)
 
 3.2. [Configuration file format](mpd11.md#11)
 
-3.3. [Mpd command line interface](mpd16.md#16)
+3.3. [mpdx command line interface](mpd16.md#16)
 
-### 4. [Configuring Mpd](mpd17.md#17)
+### 4. [Configuring mpdx](mpd17.md#17)
 
 4.1. [General mpd commands](mpd18.md#18)
 
-4.2. [Mpd Layers](mpd19.md#19)
+4.2. [mpdx Layers](mpd19.md#19)
 
 4.3. [Link layer](mpd20.md#20)
 

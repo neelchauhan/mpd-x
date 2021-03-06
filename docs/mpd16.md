@@ -1,13 +1,13 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
-*Mpd command line interface*\
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
+*mpdx command line interface*\
 **Previous:** [*`mpd.script`*](mpd15.md)\
-**Next:** [*Configuring Mpd*](mpd17.md)
+**Next:** [*Configuring mpdx*](mpd17.md)
 
 ------------------------------------------------------------------------
 
-## []{#16}3.3. Mpd command line interface[]{#cli}
+## []{#16}3.3. mpdx command line interface[]{#cli}
 
-Mpd provides to user a command line interface on stdin and TCP port.
+mpdx provides to user a command line interface on stdin and TCP port.
 Here mpd commands can be entered to configure the various layers and
 check the status of the defined bundles and links. The commands
 available at the command line interface are exactly the same ones
@@ -43,7 +43,7 @@ To control mpd runtime you also can connect to mpd\'s Telnet console.
 >
 >     Username: Admin
 >     Password: 
->     Mpd pid 1419, version 5.0a1 (root@orphanage.alkar.net 13:16 22-Sep-2007)
+>     mpdx pid 1419, version 5.0a1 (root@orphanage.alkar.net 13:16 22-Sep-2007)
 >
 >     [modem1]
 
@@ -84,7 +84,7 @@ command:
 >      version  : Version string               summary  : Daemon status summary
 >     [modem2]
 
-Mpd allows you to use only a prefix of a command, as long as the command
+mpdx allows you to use only a prefix of a command, as long as the command
 is unambigous:
 
 > ``
@@ -99,7 +99,7 @@ is unambigous:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
-*Mpd command line interface*\
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
+*mpdx command line interface*\
 **Previous:** [*`mpd.script`*](mpd15.md)\
-**Next:** [*Configuring Mpd*](mpd17.md)
+**Next:** [*Configuring mpdx*](mpd17.md)

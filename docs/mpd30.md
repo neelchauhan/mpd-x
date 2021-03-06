@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Authentication, Authorization and Accounting (AAA)*](mpd29.md)
 **:** *RADIUS*\
 **Previous:** [*Authentication, Authorization and Accounting
@@ -9,7 +9,7 @@
 
 ## []{#30}4.10.1. RADIUS[]{#radius}
 
-This chapter describes RADIUS authentication backend. Mpd supports both
+This chapter describes RADIUS authentication backend. mpdx supports both
 user authentication and session accounting using RADIUS.
 RADIUS-Accounting and RADIUS-Authentication are independant so it is
 possible to use them in any combination.
@@ -69,7 +69,7 @@ All of these commands apply to the currently active link.
     Access-Request packet using the shared secret as the key. This
     should protect the RADIUS server against online dictionary attacks.
     This is mandatory when using the EAP-RADIUS-Proxy and it\'s
-    implicitly added to the request by Mpd.
+    implicitly added to the request by mpdx.
 
 **RADIUS internals**
 
@@ -207,13 +207,13 @@ All of these commands apply to the currently active link.
         END-VENDOR  mpd
         #----------------------------------------------------------
 
-    Mpd allows RADIUS server to terminate user session by setting vendor
+    mpdx allows RADIUS server to terminate user session by setting vendor
     specific mpd-drop-user attribute to nonzero value in accounting
     start/update reply packet.
 
 **RADIUS ACL\'s**
 
-:   Mpd can use the Access Control Lists (ACLs) given by the RADIUS
+:   mpdx can use the Access Control Lists (ACLs) given by the RADIUS
     server. This ACLs may include ipfw rules, pipes, queues and tables
     and also mpd internal traffic filtering/shaping/limiting features.
     That two sets are redundant. ipfw proposed as standard and universal
@@ -269,7 +269,7 @@ All of these commands apply to the currently active link.
 
 **internal (ng_bpf/ng_car)**
 
-:   Mpd can create complex per-interface traffic filtering/limiting
+:   mpdx can create complex per-interface traffic filtering/limiting
     engines inside netgraph when it is requested by mpd-filter and
     mpd-limit RADIUS attributes.
 
@@ -325,7 +325,7 @@ All of these commands apply to the currently active link.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Authentication, Authorization and Accounting (AAA)*](mpd29.md)
 **:** *RADIUS*\
 **Previous:** [*Authentication, Authorization and Accounting

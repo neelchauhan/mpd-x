@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
+[*mpdx User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *PPTP device type commands*\
 **Previous:** [*UDP device type commands*](mpd46.md)\
 **Next:** [*L2TP device type commands*](mpd48.md)
@@ -38,7 +38,7 @@ be simplified to:
 
     client (PAC emulator) <- PPTP tunnel -> PNS
 
-Mpd is able to operate in both PAC and PNS modes. As PAC mpd supports
+mpdx is able to operate in both PAC and PNS modes. As PAC mpd supports
 both simple case PAC emulator and complete PAC topologies. Complete PAC
 can be configured by joining two physical devices using mpd\'s repeater
 functionality.
@@ -94,7 +94,7 @@ The following options are supported:
     this is consistent with the behavior of the Microsoft PPTP dial-up
     adapter client.
 
-    Mpd will accept either type of call on an incoming PPTP connection.
+    mpdx will accept either type of call on an incoming PPTP connection.
 
 **`delayed-ack`**
 
@@ -113,7 +113,7 @@ The following options are supported:
 **`windowing`**
 
 :   Enables the windowing mechanism specified by the protocol. Disabling
-    this will cause Mpd to violate the protocol, possibly confusing some
+    this will cause mpdx to violate the protocol, possibly confusing some
     PPTP peers, but usually results in better performance. The windowing
     mechanism is a design error in the PPTP protocol; L2TP, the
     successor to PPTP, removes it.
@@ -140,7 +140,7 @@ Available](http://support.microsoft.com/default.aspx?scid=KB;EN-US;Q191540)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
+[*mpdx User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *PPTP device type commands*\
 **Previous:** [*UDP device type commands*](mpd46.md)\
 **Next:** [*L2TP device type commands*](mpd48.md)

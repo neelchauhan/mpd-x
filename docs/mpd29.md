@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Authentication, Authorization and Accounting (AAA)*\
 **Previous:** [*Interface layer*](mpd28.md)\
 **Next:** [*RADIUS*](mpd30.md)
@@ -7,7 +7,7 @@
 
 ## []{#29}4.10. Authentication, Authorization and Accounting (AAA)[]{#auth}
 
-Mpd currently supports authentication against (tried in this order)
+mpdx currently supports authentication against (tried in this order)
 [external script](mpd31.md#extauth), [RADIUS](mpd30.md#radius), PAM,
 systems password database (`master.passwd`), OPIE and internal
 `mpd.secret` file.
@@ -135,7 +135,7 @@ The options available are:
     more todo. For all other authentication protocols you have to put
     the username into the `mpd.secret` file, but the specified password
     is then interpreted as secret pass phrase. This is needed, because
-    Mpd must be aware of the plaintext password when using CHAP. The
+    mpdx must be aware of the plaintext password when using CHAP. The
     (windows) endusers could generate their actual responses themselfs
     using Winkey.\
     **IMPORTANT**: Disable the internal authentication when using OPIE
@@ -157,7 +157,7 @@ The options available are:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Authentication, Authorization and Accounting (AAA)*\
 **Previous:** [*Interface layer*](mpd28.md)\
 **Next:** [*RADIUS*](mpd30.md)

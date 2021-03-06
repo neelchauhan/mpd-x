@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
 *Hints for developers*\
 **Previous:** [*Authentication*](mpd66.md)\
 **Next:** [*References*](mpd68.md)
@@ -20,15 +20,15 @@ This chapter describes describes some hints for developers.
 
 :   NEVER call NgFuncGetStats() with the *clear* parameter set to true,
     because there are other functions (echo requests/replies, bandwidth
-    management) wich relies on increasing link-stats. Mpd carries a copy
+    management) wich relies on increasing link-stats. mpdx carries a copy
     of the netgraph link-stats at link-level, just use these instead.
     You can call LinkUpdateStats() for updating the internal
     stats-struct.
 
 **New Authentication-Backends**
 
-:   Authentication backends must run independently from the rest of Mpd,
-    i.e. you must not access any Mpd resource, because the
+:   Authentication backends must run independently from the rest of mpdx,
+    i.e. you must not access any mpdx resource, because the
     authentication process is started in its own thread (you have to
     take care about thread-safety). An `AuthData` object is passed to
     your authenticating function which carries a copy of all required
@@ -36,7 +36,7 @@ This chapter describes describes some hints for developers.
     IP, etc. then put these at the appropriate place into `AuthData` or
     `Auth`.
 
-    If you can not avoid reading from Mpd\'s internal data, then acquire
+    If you can not avoid reading from mpdx\'s internal data, then acquire
     the Giant Mutex:
 
     ------------------------------------------------------------------------
@@ -51,7 +51,7 @@ This chapter describes describes some hints for developers.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
 *Hints for developers*\
 **Previous:** [*Authentication*](mpd66.md)\
 **Next:** [*References*](mpd68.md)

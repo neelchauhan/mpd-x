@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Bundle layer*\
 **Previous:** [*EAP*](mpd21.md)\
 **Next:** [*Encryption (ECP) layer*](mpd23.md)
@@ -14,13 +14,13 @@ i.e., the bundle shown at the command line prompt.
 **`set bundle period seconds set bundle hiwat percent set bundle lowat percent set bundle min-con seconds set bundle min-dis seconds set bundle links link1 [ ... ]`**
 
 :   These commands are only meaningful when bandwidth management is
-    enabled. Mpd will attempt to bring up a new link from the list
+    enabled. mpdx will attempt to bring up a new link from the list
     specified or take down an existing link when the utilization goes
     above `hiwat` or below `lowat` percent, respectively. The
     utilization is sampled every `period` divided by 6 points, and is
     averaged over the past `period` seconds.
 
-    Mpd will not attempt to disconnect a link unless previous one was
+    mpdx will not attempt to disconnect a link unless previous one was
     disconnected at least `min-dis` seconds before. Similarly, mpd will
     not open a link unless previous was opened at least `min-con`
     seconds before. These two parameters help prevent oscillations, but
@@ -116,7 +116,7 @@ The options available at the bundle layer are:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Bundle layer*\
 **Previous:** [*EAP*](mpd21.md)\
 **Next:** [*Encryption (ECP) layer*](mpd23.md)

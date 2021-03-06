@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Sets*\
 **Previous:** [*Match events*](mpd54.md)\
 **Next:** [*Special sets and targets*](mpd56.md)
@@ -18,7 +18,7 @@ one set has no effect on events in other sets.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Sets*\
 **Previous:** [*Match events*](mpd54.md)\
 **Next:** [*Special sets and targets*](mpd56.md)

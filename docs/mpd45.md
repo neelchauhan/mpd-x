@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
+[*mpdx User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *TCP device type commands*\
 **Previous:** [*Netgraph device type commands*](mpd44.md)\
 **Next:** [*UDP device type commands*](mpd46.md)
@@ -41,7 +41,7 @@ The following options are supported:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
+[*mpdx User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *TCP device type commands*\
 **Previous:** [*Netgraph device type commands*](mpd44.md)\
 **Next:** [*UDP device type commands*](mpd46.md)

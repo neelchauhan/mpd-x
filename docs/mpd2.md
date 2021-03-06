@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Introduction*](mpd1.md)
+[*mpdx User Manual*](README.md) **:** [*Introduction*](mpd1.md)
 **:** *Overview*\
 **Previous:** [*Introduction*](mpd1.md)\
 **Next:** [*Organization of this manual*](mpd3.md)
@@ -7,16 +7,16 @@
 
 ## []{#2}1.1. Overview[]{#overview}
 
-Mpd is a netgraph(4) based implementation of the multi-link PPP protocol
+mpdx is a netgraph(4) based implementation of the multi-link PPP protocol
 for FreeBSD. It is designed to be both fast and flexible as it handles
 configuration and negotiation in user land, while routing all data
 packets strictly in the kernel.
 
-Mpd has unified support for many link types:
+mpdx has unified support for many link types:
 
 -   **modem** to connect using different asynchronous serial
     connections, including modems, ISDN terminal adapters, and
-    null-modem. Mpd includes event-driven scripting language for modem
+    null-modem. mpdx includes event-driven scripting language for modem
     identification, setup, manual server login, etc.
 -   **pptp** to connect over the Internet using the Point-to-Point
     Tunneling Protocol (PPTP). This protocol is supported by the most
@@ -49,7 +49,7 @@ as usual PPP client/server or forward connection unmodified to other
 host using any supported link type providing LAC/PAC/TSA functionality
 for building distributed access networks.
 
-Mpd also includes many additional features:
+mpdx also includes many additional features:
 
 -   IPv4 and IPv6 support
 -   Telnet and HTTP control interfaces.
@@ -65,15 +65,15 @@ Mpd also includes many additional features:
 -   Clean device-type independent design
 -   Comprehensive logging
 
-Mpd was originally developed at Whistle Communications, Inc. for use in
+mpdx was originally developed at Whistle Communications, Inc. for use in
 the Whistle InterJet. It is based on the original `iij-ppp` user-mode
-PPP code, though it has been completely rewritten since then. Mpd is now
+PPP code, though it has been completely rewritten since then. mpdx is now
 hosted on sourceforge.net [MPD Project
 Page](http://sourceforge.net/projects/mpd/).
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Introduction*](mpd1.md)
+[*mpdx User Manual*](README.md) **:** [*Introduction*](mpd1.md)
 **:** *Overview*\
 **Previous:** [*Introduction*](mpd1.md)\
 **Next:** [*Organization of this manual*](mpd3.md)

@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Compression (CCP) layer*\
 **Previous:** [*Encryption (ECP) layer*](mpd23.md)\
 **Next:** [*MPPC protocol*](mpd25.md)
@@ -84,7 +84,7 @@ The options available at the CCP layer are listed below.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Compression (CCP) layer*\
 **Previous:** [*Encryption (ECP) layer*](mpd23.md)\
 **Next:** [*MPPC protocol*](mpd25.md)

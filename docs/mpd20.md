@@ -1,6 +1,6 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Link layer*\
-**Previous:** [*Mpd Layers*](mpd19.md)\
+**Previous:** [*mpdx Layers*](mpd19.md)\
 **Next:** [*EAP*](mpd21.md)
 
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ at the command line prompt.
     each link, mpd can distribute the fragments in a more intelligent
     way.
 
-    Mpd attempts to distribute bytes over the links so that (if the
+    mpdx attempts to distribute bytes over the links so that (if the
     configured parameters are accurate) the last byte of each fragment
     arrives at the peer at the same time on each link. This minimizes
     latency. However, if you only care about maximizing throughput,
@@ -233,8 +233,8 @@ The options available at the link layer are:
 
 :   CHAP style authentication. This style of authentication is safer
     than PAP, because only a hash of the password is passed over the
-    link. Mpd supports MD5 style CHAP and Microsoft style CHAP versions
-    1 and 2. Mpd will prefer Microsoft CHAP over MD5 CHAP to get
+    link. mpdx supports MD5 style CHAP and Microsoft style CHAP versions
+    1 and 2. mpdx will prefer Microsoft CHAP over MD5 CHAP to get
     encryption keys.
 
     This option is an alias for `chap-md5` `chap-msv1` `chap-msv2`
@@ -392,7 +392,7 @@ The options available at the link layer are:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Link layer*\
-**Previous:** [*Mpd Layers*](mpd19.md)\
+**Previous:** [*mpdx Layers*](mpd19.md)\
 **Next:** [*EAP*](mpd21.md)

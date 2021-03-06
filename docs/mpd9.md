@@ -1,10 +1,10 @@
-[*Mpd 5.9 User Manual*](README.md) **:** *Running Mpd*\
+[*mpdx User Manual*](README.md) **:** *Running mpdx*\
 **Previous:** [*Building mpd*](mpd8.md)\
 **Next:** [*Invoking mpd*](mpd10.md)
 
 ------------------------------------------------------------------------
 
-## []{#9}3. Running Mpd
+## []{#9}3. Running mpdx
 
 ### 3.1. [Invoking mpd](mpd10.md#10)
 
@@ -18,10 +18,10 @@
 
 3.2.4. [`mpd.script`](mpd15.md#15)
 
-### 3.3. [Mpd command line interface](mpd16.md#16)
+### 3.3. [mpdx command line interface](mpd16.md#16)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** *Running Mpd*\
+[*mpdx User Manual*](README.md) **:** *Running mpdx*\
 **Previous:** [*Building mpd*](mpd8.md)\
 **Next:** [*Invoking mpd*](mpd10.md)

@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Traffic accounting*](mpd33.md) **:** *Accounting Update*\
 **Previous:** [*IP Accounting*](mpd35.md)\
 **Next:** [*Typed Accounting Update*](mpd37.md)
@@ -7,7 +7,7 @@
 
 ## []{#36}4.12.3. Accounting Update
 
-Mpd provides summary traffic statistics in every accounting Update/Stop
+mpdx provides summary traffic statistics in every accounting Update/Stop
 call of radius-acct or ext-acct.
 
 For radius-acct it provides such attributes:
@@ -60,7 +60,7 @@ traffic after compression, encryption and multilink were applied to it.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Traffic accounting*](mpd33.md) **:** *Accounting Update*\
 **Previous:** [*IP Accounting*](mpd35.md)\
 **Next:** [*Typed Accounting Update*](mpd37.md)

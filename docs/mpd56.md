@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** [*Sets*](mpd55.md) **:** *Special sets and targets*\
 **Previous:** [*Sets*](mpd55.md)\
 **Next:** [*Variables*](mpd57.md)
@@ -25,7 +25,7 @@ sets (i.e., all pending events) are cancelled.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** [*Sets*](mpd55.md) **:** *Special sets and targets*\
 **Previous:** [*Sets*](mpd55.md)\
 **Next:** [*Variables*](mpd57.md)

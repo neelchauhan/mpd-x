@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Encryption (ECP) layer*\
 **Previous:** [*Bundle layer*](mpd22.md)\
 **Next:** [*Compression (CCP) layer*](mpd24.md)
@@ -83,7 +83,7 @@ The options available at the ECP layer are:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Encryption (ECP) layer*\
 **Previous:** [*Bundle layer*](mpd22.md)\
 **Next:** [*Compression (CCP) layer*](mpd24.md)

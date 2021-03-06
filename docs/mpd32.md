@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Dynamic Authorization*\
 **Previous:** [*External authentication*](mpd31.md)\
 **Next:** [*Traffic accounting*](mpd33.md)
@@ -7,7 +7,7 @@
 
 ## []{#32}4.11. Dynamic Authorization[]{#dynauth}
 
-After session has been first time authorized by AAA subsystem, Mpd
+After session has been first time authorized by AAA subsystem, mpdx
 provides you several ways to affect it\'s further operation. Process of
 affecting established session called dynamic authorization.
 
@@ -28,7 +28,7 @@ such as speed, ACLs and so on, on-flight)
 
 **Web server**
 
-:   Mpd provides two **[Web](mpd41.md#web)** interfaces: human
+:   mpdx provides two **[Web](mpd41.md#web)** interfaces: human
     (text.md) and binary (text/plain).
 
     Human web interface allows you disconnect specified session just by
@@ -42,7 +42,7 @@ such as speed, ACLs and so on, on-flight)
 
 **RADIUS accounting**
 
-:   Mpd provides simple, but non-standard method of disconnecting
+:   mpdx provides simple, but non-standard method of disconnecting
     session using **[RADIUS](mpd30.md#radius)** accounting reply. To
     disconnect arbitrary session you may just include *mpd-drop-user*
     attribute with nonzero value into any accounting reply packet.
@@ -174,7 +174,7 @@ such as speed, ACLs and so on, on-flight)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Dynamic Authorization*\
 **Previous:** [*External authentication*](mpd31.md)\
 **Next:** [*Traffic accounting*](mpd33.md)

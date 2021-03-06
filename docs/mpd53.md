@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** [*Events*](mpd52.md) **:** *Timer events*\
 **Previous:** [*Events*](mpd52.md)\
 **Next:** [*Match events*](mpd54.md)
@@ -17,7 +17,7 @@ Timer events (like all events) can only occur during the execution of a
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+[*mpdx User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** [*Events*](mpd52.md) **:** *Timer events*\
 **Previous:** [*Events*](mpd52.md)\
 **Next:** [*Match events*](mpd54.md)

@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** *Device Types*\
+[*mpdx User Manual*](README.md) **:** *Device Types*\
 **Previous:** [*Web server*](mpd41.md)\
 **Next:** [*Modem type commands*](mpd43.md)
 
@@ -22,6 +22,6 @@
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** *Device Types*\
+[*mpdx User Manual*](README.md) **:** *Device Types*\
 **Previous:** [*Web server*](mpd41.md)\
 **Next:** [*Modem type commands*](mpd43.md)

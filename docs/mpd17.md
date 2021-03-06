@@ -1,14 +1,14 @@
-[*Mpd 5.9 User Manual*](README.md) **:** *Configuring Mpd*\
-**Previous:** [*Mpd command line interface*](mpd16.md)\
+[*mpdx User Manual*](README.md) **:** *Configuring mpdx*\
+**Previous:** [*mpdx command line interface*](mpd16.md)\
 **Next:** [*General mpd commands*](mpd18.md)
 
 ------------------------------------------------------------------------
 
-## []{#17}4. Configuring Mpd
+## []{#17}4. Configuring mpdx
 
 ### 4.1. [General mpd commands](mpd18.md#18)
 
-### 4.2. [Mpd Layers](mpd19.md#19)
+### 4.2. [mpdx Layers](mpd19.md#19)
 
 ### 4.3. [Link layer](mpd20.md#20)
 
@@ -56,6 +56,6 @@
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** *Configuring Mpd*\
-**Previous:** [*Mpd command line interface*](mpd16.md)\
+[*mpdx User Manual*](README.md) **:** *Configuring mpdx*\
+**Previous:** [*mpdx command line interface*](mpd16.md)\
 **Next:** [*General mpd commands*](mpd18.md)

@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Traffic accounting*](mpd33.md) **:** *Typed Accounting
 Update*\
 **Previous:** [*Accounting Update*](mpd36.md)\
@@ -89,7 +89,7 @@ using mpd-input-acct/mpd-output-acct attributes.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Traffic accounting*](mpd33.md) **:** *Typed Accounting
 Update*\
 **Previous:** [*Accounting Update*](mpd36.md)\

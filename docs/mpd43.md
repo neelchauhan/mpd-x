@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
+[*mpdx User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *Modem type commands*\
 **Previous:** [*Device Types*](mpd42.md)\
 **Next:** [*Netgraph device type commands*](mpd44.md)
@@ -33,7 +33,7 @@ the currently active link has type **modem**.
 
 :   This command tells mpd which chat script to run in order to initiate
     a PPP connection for this link. The `connect-script` should
-    correspond to a label in `mpd.script`. Mpd will jump to this label
+    correspond to a label in `mpd.script`. mpdx will jump to this label
     after opening the serial port device. If `connect-script` is not
     set, then the chat phase of the connection is skipped (e.g., if you
     have a direct null modem connection).
@@ -59,7 +59,7 @@ the currently active link has type **modem**.
 
 **`set modem watch +/-signal ...`**
 
-:   Mpd normally tracks the carrier detect signal on the serial port and
+:   mpdx normally tracks the carrier detect signal on the serial port and
     drops the connection when this signal is lost. You can disable this
     behavior with `set modem watch -cd`. Also, mpd can do the same thing
     with the DSR signal, though the default is to ignore DSR. To enable
@@ -67,7 +67,7 @@ the currently active link has type **modem**.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
+[*mpdx User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *Modem type commands*\
 **Previous:** [*Device Types*](mpd42.md)\
 **Next:** [*Netgraph device type commands*](mpd44.md)

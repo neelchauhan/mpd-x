@@ -1,13 +1,13 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
 *Invoking mpd*\
-**Previous:** [*Running Mpd*](mpd9.md)\
+**Previous:** [*Running mpdx*](mpd9.md)\
 **Next:** [*Configuration file format*](mpd11.md)
 
 ------------------------------------------------------------------------
 
 ## []{#10}3.1. Invoking mpd[]{#invoke}
 
-Mpd is invoked by first setting up your configuration files, and then
+mpdx is invoked by first setting up your configuration files, and then
 running
 
 > ` mpd [ options ] [ configuration ] `
@@ -17,10 +17,10 @@ On startup mpd run commands from the `startup` label. After that, if
 label, and runs the corresponding commands. If `configuration` is not
 supplied, mpd looks for the configuration named `default`.
 
-Mpd can either be run in interactive mode or in the background as a
+mpdx can either be run in interactive mode or in the background as a
 daemon. In interactive mode mpd accepts commands typed at the console.
 
-Mpd understands the following command line options. Each option has a
+mpdx understands the following command line options. Each option has a
 short, single character form, as well as an equivalent long form.
 
 **`-b  --background`**
@@ -44,7 +44,7 @@ short, single character form, as well as an equivalent long form.
 
 **`-p  --pidfile filename`**
 
-:   Mpd will open and lock `filename` and write its process ID before
+:   mpdx will open and lock `filename` and write its process ID before
     starting. If another mpd process is already running, mpd will not
     start. The default is `/var/run/mpd.pid`.
 
@@ -57,12 +57,12 @@ short, single character form, as well as an equivalent long form.
 
 **`-s  --syslog-ident ident`**
 
-:   Mpd normally logs via `syslog(3)` with the identifier `mpd`. This
+:   mpdx normally logs via `syslog(3)` with the identifier `mpd`. This
     option allows you to change that identifier.
 
 **`-m  --pam-service service`**
 
-:   Mpd normally invoke `pam(3)` with the service `mpd`. This option
+:   mpdx normally invoke `pam(3)` with the service `mpd`. This option
     allows you to change that service.
 
 **`-v  --version`**
@@ -73,7 +73,7 @@ short, single character form, as well as an equivalent long form.
 
 :   Displays a usage message and exits.
 
-Mpd responds to the following signals while it is running:
+mpdx responds to the following signals while it is running:
 
 **SIGTERM**
 
@@ -92,7 +92,7 @@ Mpd responds to the following signals while it is running:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*mpdx User Manual*](README.md) **:** [*Running mpdx*](mpd9.md) **:**
 *Invoking mpd*\
-**Previous:** [*Running Mpd*](mpd9.md)\
+**Previous:** [*Running mpdx*](mpd9.md)\
 **Next:** [*Configuration file format*](mpd11.md)

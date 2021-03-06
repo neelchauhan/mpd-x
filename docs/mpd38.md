@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *IP address pools*\
 **Previous:** [*Typed Accounting Update*](mpd37.md)\
 **Next:** [*Network Address Translation (NAT)*](mpd39.md)
@@ -7,7 +7,7 @@
 
 ## []{#38}4.13. IP address pools[]{#ippool}
 
-Mpd implements dynamic IP addresses pool management. When user is
+mpdx implements dynamic IP addresses pool management. When user is
 authenticated and auth backend have not provided IP address, it can be
 taken from pool. To make it work you should create one or more address
 pools with \'set ippool add \...\' command and define which pool should
@@ -21,7 +21,7 @@ Framed-Pool attribute or ext-auth FRAMED_POOL attribute.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *IP address pools*\
 **Previous:** [*Typed Accounting Update*](mpd37.md)\
 **Next:** [*Network Address Translation (NAT)*](mpd39.md)

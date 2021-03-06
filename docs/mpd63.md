@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Troubleshooting*](mpd62.md)
+[*mpdx User Manual*](README.md) **:** [*Troubleshooting*](mpd62.md)
 **:** *Troubleshooting*\
 **Previous:** [*Troubleshooting*](mpd62.md)\
 **Next:** [*Internals*](mpd64.md)
@@ -14,7 +14,7 @@ sourceforge.net mpd project forum.
 
 ****It does not work and I do not understand why.****
 
-:   Mpd has extensive logging system supporting syslog. To direct logs
+:   mpdx has extensive logging system supporting syslog. To direct logs
     into a file add lines
 
         !mpd
@@ -30,7 +30,7 @@ sourceforge.net mpd project forum.
 :   Make sure you have set `gateway_enable="YES"` in `/etc/rc.conf`,
     otherwise your FreeBSD box will not route packets.
 
-    Also, check your firewall settings. Mpd will create new interfaces
+    Also, check your firewall settings. mpdx will create new interfaces
     which may need to be incorporated into your firewall rules. If
     you\'re doing PPTP, you need to allow TCP port 1723 and IP protocol
     47 (GRE).
@@ -114,7 +114,7 @@ sourceforge.net mpd project forum.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Troubleshooting*](mpd62.md)
+[*mpdx User Manual*](README.md) **:** [*Troubleshooting*](mpd62.md)
 **:** *Troubleshooting*\
 **Previous:** [*Troubleshooting*](mpd62.md)\
 **Next:** [*Internals*](mpd64.md)

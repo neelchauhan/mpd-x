@@ -1,13 +1,13 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
-**:** *Mpd Layers*\
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
+**:** *mpdx Layers*\
 **Previous:** [*General mpd commands*](mpd18.md)\
 **Next:** [*Link layer*](mpd20.md)
 
 ------------------------------------------------------------------------
 
-## []{#19}4.2. Mpd Layers[]{#layers}
+## []{#19}4.2. mpdx Layers[]{#layers}
 
-Mpd consists of several **layers**, corresponding to the layered nature
+mpdx consists of several **layers**, corresponding to the layered nature
 of the PPP protocol. There are two types of layers hierarchy connected
 with two different operation modes as \"ppp terminator\" and \"ppp
 repeater\". Operation mode is getting chosen dynamically depending on
@@ -89,7 +89,7 @@ everything.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
-**:** *Mpd Layers*\
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
+**:** *mpdx Layers*\
 **Previous:** [*General mpd commands*](mpd18.md)\
 **Next:** [*Link layer*](mpd20.md)

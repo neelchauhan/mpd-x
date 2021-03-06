@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** *Troubleshooting*\
+[*mpdx User Manual*](README.md) **:** *Troubleshooting*\
 **Previous:** [*The included `mpd.script`*](mpd61.md)\
 **Next:** [*Troubleshooting*](mpd63.md)
 
@@ -10,6 +10,6 @@
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** *Troubleshooting*\
+[*mpdx User Manual*](README.md) **:** *Troubleshooting*\
 **Previous:** [*The included `mpd.script`*](mpd61.md)\
 **Next:** [*Troubleshooting*](mpd63.md)

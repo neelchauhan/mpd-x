@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Web server*\
 **Previous:** [*Control console*](mpd40.md)\
 **Next:** [*Device Types*](mpd42.md)
@@ -7,8 +7,8 @@
 
 ## []{#41}4.16. Web server[]{#web}
 
-Mpd provides HTTP interface for monitoring and control purposes. This
-chapter describes commands for configuring Mpd\'s web server.
+mpdx provides HTTP interface for monitoring and control purposes. This
+chapter describes commands for configuring mpdx\'s web server.
 
 **`set web open`**
 
@@ -53,7 +53,7 @@ command in JSON format, typing \`/json\` in URL.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** *Web server*\
 **Previous:** [*Control console*](mpd40.md)\
 **Next:** [*Device Types*](mpd42.md)

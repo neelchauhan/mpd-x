@@ -1,4 +1,4 @@
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Link layer*](mpd20.md) **:** *EAP*\
 **Previous:** [*Link layer*](mpd20.md)\
 **Next:** [*Bundle layer*](mpd22.md)
@@ -8,7 +8,7 @@
 ## []{#21}4.3.1. EAP[]{#eap}
 
 This chapter describes commands that configure the EAP (Extensible
-Authentication Protocol). Mpd supports natively only the EAP-Type MD5;
+Authentication Protocol). mpdx supports natively only the EAP-Type MD5;
 other EAP-Types may be used in conjunction with a RADIUS server. All of
 these commands apply to the currently active link.
 
@@ -47,13 +47,13 @@ these commands apply to the currently active link.
 
 **`radius-proxy`**
 
-:   Causes Mpd to proxy all EAP requests to the RADIUS server.
+:   Causes mpdx to proxy all EAP requests to the RADIUS server.
 
     The default is disable.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+[*mpdx User Manual*](README.md) **:** [*Configuring mpdx*](mpd17.md)
 **:** [*Link layer*](mpd20.md) **:** *EAP*\
 **Previous:** [*Link layer*](mpd20.md)\
 **Next:** [*Bundle layer*](mpd22.md)
