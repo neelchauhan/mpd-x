@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Device Types*](mpd42.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *Netgraph device type commands*\
-**Previous:** [*Modem type commands*](mpd43.html)\
-**Next:** [*TCP device type commands*](mpd45.html)
+**Previous:** [*Modem type commands*](mpd43.md)\
+**Next:** [*TCP device type commands*](mpd45.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ hook is broken.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Device Types*](mpd42.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *Netgraph device type commands*\
-**Previous:** [*Modem type commands*](mpd43.html)\
-**Next:** [*TCP device type commands*](mpd45.html)
+**Previous:** [*Modem type commands*](mpd43.md)\
+**Next:** [*TCP device type commands*](mpd45.md)

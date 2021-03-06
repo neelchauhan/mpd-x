@@ -1,14 +1,14 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Authentication, Authorization and Accounting (AAA)*\
-**Previous:** [*Interface layer*](mpd28.html)\
-**Next:** [*RADIUS*](mpd30.html)
+**Previous:** [*Interface layer*](mpd28.md)\
+**Next:** [*RADIUS*](mpd30.md)
 
 ------------------------------------------------------------------------
 
 ## []{#29}4.10. Authentication, Authorization and Accounting (AAA)[]{#auth}
 
 Mpd currently supports authentication against (tried in this order)
-[external script](mpd31.html#extauth), [RADIUS](mpd30.html#radius), PAM,
+[external script](mpd31.md#extauth), [RADIUS](mpd30.md#radius), PAM,
 systems password database (`master.passwd`), OPIE and internal
 `mpd.secret` file.
 
@@ -71,14 +71,14 @@ The options available are:
 **`radius-auth`**
 
 :   Enable authentication via RADIUS. For details see [the RADIUS
-    chapter](mpd30.html#radius).
+    chapter](mpd30.md#radius).
 
     Default `disable`.
 
 **`radius-acct`**
 
 :   Enable per link accounting via RADIUS. For details see [the RADIUS
-    chapter](mpd30.html#radius).
+    chapter](mpd30.md#radius).
 
     Default `disable`.
 
@@ -87,7 +87,7 @@ The options available are:
 :   Enable authentication by calling external script. This method
     pretended to be a fullfeatured alternative to the `radius-auth`. For
     details see [the External authentication
-    chapter](mpd31.html#extauth).
+    chapter](mpd31.md#extauth).
 
     Default `disable`.
 
@@ -95,7 +95,7 @@ The options available are:
 
 :   Enable accounting by calling external script. This method pretended
     to be a fullfeatured alternative to the `radius-acct`. For details
-    see [the External authentication chapter](mpd31.html#extauth).
+    see [the External authentication chapter](mpd31.md#extauth).
 
     Default `disable`.
 
@@ -151,13 +151,13 @@ The options available are:
 
     Default `enable`.
 
-### 4.10.1. [RADIUS](mpd30.html#30)
+### 4.10.1. [RADIUS](mpd30.md#30)
 
-### 4.10.2. [External authentication](mpd31.html#31)
+### 4.10.2. [External authentication](mpd31.md#31)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Authentication, Authorization and Accounting (AAA)*\
-**Previous:** [*Interface layer*](mpd28.html)\
-**Next:** [*RADIUS*](mpd30.html)
+**Previous:** [*Interface layer*](mpd28.md)\
+**Next:** [*RADIUS*](mpd30.md)

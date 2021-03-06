@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Variables*\
-**Previous:** [*Special sets and targets*](mpd56.html)\
-**Next:** [*Special variables*](mpd58.html)
+**Previous:** [*Special sets and targets*](mpd56.md)\
+**Next:** [*Special variables*](mpd58.md)
 
 ------------------------------------------------------------------------
 
@@ -25,11 +25,11 @@ Examples:
 >     $My_variable_234
 >     ${i_am_safely_followed_by_a_letter}
 
-### 6.4.1. [Special variables](mpd58.html#58)
+### 6.4.1. [Special variables](mpd58.md#58)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Variables*\
-**Previous:** [*Special sets and targets*](mpd56.html)\
-**Next:** [*Special variables*](mpd58.html)
+**Previous:** [*Special sets and targets*](mpd56.md)\
+**Next:** [*Special variables*](mpd58.md)

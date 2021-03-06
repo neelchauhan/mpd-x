@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Events*\
-**Previous:** [*Script file format and execution*](mpd51.html)\
-**Next:** [*Timer events*](mpd53.html)
+**Previous:** [*Script file format and execution*](mpd51.md)\
+**Next:** [*Timer events*](mpd53.md)
 
 ------------------------------------------------------------------------
 
@@ -30,13 +30,13 @@ when any event in the set occurs. Execution resumes at the target label
 associated with the event that occurred, and all other events in that
 set are immediately cancelled.
 
-### 6.2.1. [Timer events](mpd53.html#53)
+### 6.2.1. [Timer events](mpd53.md#53)
 
-### 6.2.2. [Match events](mpd54.html#54)
+### 6.2.2. [Match events](mpd54.md#54)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Events*\
-**Previous:** [*Script file format and execution*](mpd51.html)\
-**Next:** [*Timer events*](mpd53.html)
+**Previous:** [*Script file format and execution*](mpd51.md)\
+**Next:** [*Timer events*](mpd53.md)

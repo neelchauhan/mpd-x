@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Device Types*](mpd42.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *L2TP device type commands*\
-**Previous:** [*PPTP device type commands*](mpd47.html)\
-**Next:** [*PPPoE device type commands*](mpd49.html)
+**Previous:** [*PPTP device type commands*](mpd47.md)\
+**Next:** [*PPPoE device type commands*](mpd49.md)
 
 ------------------------------------------------------------------------
 
@@ -155,7 +155,7 @@ The following options are supported:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Device Types*](mpd42.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *L2TP device type commands*\
-**Previous:** [*PPTP device type commands*](mpd47.html)\
-**Next:** [*PPPoE device type commands*](mpd49.html)
+**Previous:** [*PPTP device type commands*](mpd47.md)\
+**Next:** [*PPPoE device type commands*](mpd49.md)

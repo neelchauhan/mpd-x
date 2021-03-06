@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Link layer*\
-**Previous:** [*Mpd Layers*](mpd19.html)\
-**Next:** [*EAP*](mpd21.html)
+**Previous:** [*Mpd Layers*](mpd19.md)\
+**Next:** [*EAP*](mpd21.md)
 
 ------------------------------------------------------------------------
 
@@ -260,7 +260,7 @@ The options available at the link layer are:
 **`eap`**
 
 :   Extensible Authentication Protocol. For details see [the EAP
-    chapter](mpd21.html#eap).
+    chapter](mpd21.md#eap).
 
     Default `disable` and `accept`.
 
@@ -388,11 +388,11 @@ The options available at the link layer are:
 
     Default `disable`.
 
-### 4.3.1. [EAP](mpd21.html#21)
+### 4.3.1. [EAP](mpd21.md#21)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Link layer*\
-**Previous:** [*Mpd Layers*](mpd19.html)\
-**Next:** [*EAP*](mpd21.html)
+**Previous:** [*Mpd Layers*](mpd19.md)\
+**Next:** [*EAP*](mpd21.md)

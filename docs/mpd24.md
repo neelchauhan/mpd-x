@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Compression (CCP) layer*\
-**Previous:** [*Encryption (ECP) layer*](mpd23.html)\
-**Next:** [*MPPC protocol*](mpd25.html)
+**Previous:** [*Encryption (ECP) layer*](mpd23.md)\
+**Next:** [*MPPC protocol*](mpd25.md)
 
 ------------------------------------------------------------------------
 
@@ -76,15 +76,15 @@ The options available at the CCP layer are listed below.
 **`mppc`**
 
 :   This option enables MPPC compression/encryption subprotocol. For
-    details see [the MPPC protocol chapter](mpd25.html#mppc).
+    details see [the MPPC protocol chapter](mpd25.md#mppc).
 
     The default is disable.
 
-### 4.6.1. [MPPC protocol](mpd25.html#25)
+### 4.6.1. [MPPC protocol](mpd25.md#25)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Compression (CCP) layer*\
-**Previous:** [*Encryption (ECP) layer*](mpd23.html)\
-**Next:** [*MPPC protocol*](mpd25.html)
+**Previous:** [*Encryption (ECP) layer*](mpd23.md)\
+**Next:** [*MPPC protocol*](mpd25.md)

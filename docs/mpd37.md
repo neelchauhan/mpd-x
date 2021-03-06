@@ -1,8 +1,8 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Traffic accounting*](mpd33.html) **:** *Typed Accounting
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Traffic accounting*](mpd33.md) **:** *Typed Accounting
 Update*\
-**Previous:** [*Accounting Update*](mpd36.html)\
-**Next:** [*IP address pools*](mpd38.html)
+**Previous:** [*Accounting Update*](mpd36.md)\
+**Next:** [*IP address pools*](mpd38.md)
 
 ------------------------------------------------------------------------
 
@@ -89,8 +89,8 @@ using mpd-input-acct/mpd-output-acct attributes.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Traffic accounting*](mpd33.html) **:** *Typed Accounting
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Traffic accounting*](mpd33.md) **:** *Typed Accounting
 Update*\
-**Previous:** [*Accounting Update*](mpd36.html)\
-**Next:** [*IP address pools*](mpd38.html)
+**Previous:** [*Accounting Update*](mpd36.md)\
+**Next:** [*IP address pools*](mpd38.md)

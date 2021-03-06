@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Script file format and execution*\
-**Previous:** [*Chat Scripting*](mpd50.html)\
-**Next:** [*Events*](mpd52.html)
+**Previous:** [*Chat Scripting*](mpd50.md)\
+**Next:** [*Events*](mpd52.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Events are described in the next section.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Script file format and execution*\
-**Previous:** [*Chat Scripting*](mpd50.html)\
-**Next:** [*Events*](mpd52.html)
+**Previous:** [*Chat Scripting*](mpd50.md)\
+**Next:** [*Events*](mpd52.md)

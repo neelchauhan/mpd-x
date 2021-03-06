@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Web server*\
-**Previous:** [*Control console*](mpd40.html)\
-**Next:** [*Device Types*](mpd42.html)
+**Previous:** [*Control console*](mpd40.md)\
+**Next:** [*Device Types*](mpd42.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ chapter describes commands for configuring Mpd\'s web server.
 
     The default is \'127.0.0.1 5006\'.
 
-```{=html}
+```{.md}
 <!-- -->
 ```
 
@@ -47,13 +47,13 @@ chapter describes commands for configuring Mpd\'s web server.
 
 You can send any set of command allowed by privileges via WEB server for
 mpd infrastructure integration. Depending on URL used mpd supports two
-response formats: text/html (/cmd?command1&\...) and text/plain
+response formats: text.md (/cmd?command1&\...) and text/plain
 (/bincmd?command1&\...). Also you can see output \`show summary\`
 command in JSON format, typing \`/json\` in URL.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Web server*\
-**Previous:** [*Control console*](mpd40.html)\
-**Next:** [*Device Types*](mpd42.html)
+**Previous:** [*Control console*](mpd40.md)\
+**Next:** [*Device Types*](mpd42.md)

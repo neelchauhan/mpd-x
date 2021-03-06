@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Link layer*](mpd20.html) **:** *EAP*\
-**Previous:** [*Link layer*](mpd20.html)\
-**Next:** [*Bundle layer*](mpd22.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Link layer*](mpd20.md) **:** *EAP*\
+**Previous:** [*Link layer*](mpd20.md)\
+**Next:** [*Bundle layer*](mpd22.md)
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ these commands apply to the currently active link.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Link layer*](mpd20.html) **:** *EAP*\
-**Previous:** [*Link layer*](mpd20.html)\
-**Next:** [*Bundle layer*](mpd22.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Link layer*](mpd20.md) **:** *EAP*\
+**Previous:** [*Link layer*](mpd20.md)\
+**Next:** [*Bundle layer*](mpd22.md)

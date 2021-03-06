@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*References*](mpd68.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*References*](mpd68.md) **:**
 *Credits*\
-**Previous:** [*References*](mpd69.html)\
-**Next:** [*Mpd 5.9 User Manual*](mpd.html)
+**Previous:** [*References*](mpd69.md)\
+**Next:** [*Mpd 5.9 User Manual*](README.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*References*](mpd68.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*References*](mpd68.md) **:**
 *Credits*\
-**Previous:** [*References*](mpd69.html)\
-**Next:** [*Mpd 5.9 User Manual*](mpd.html)
+**Previous:** [*References*](mpd69.md)\
+**Next:** [*Mpd 5.9 User Manual*](README.md)

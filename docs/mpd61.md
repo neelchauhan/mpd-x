@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *The included `mpd.script`*\
-**Previous:** [*Errors*](mpd60.html)\
-**Next:** [*Troubleshooting*](mpd62.html)
+**Previous:** [*Errors*](mpd60.md)\
+**Next:** [*Troubleshooting*](mpd62.md)
 
 ------------------------------------------------------------------------
 
@@ -139,7 +139,7 @@ the following labels:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *The included `mpd.script`*\
-**Previous:** [*Errors*](mpd60.html)\
-**Next:** [*Troubleshooting*](mpd62.html)
+**Previous:** [*Errors*](mpd60.md)\
+**Next:** [*Troubleshooting*](mpd62.md)

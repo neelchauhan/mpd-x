@@ -1,19 +1,19 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** *Installation*\
-**Previous:** [*Change history*](mpd4.html)\
-**Next:** [*Getting mpd*](mpd6.html)
+[*Mpd 5.9 User Manual*](README.md) **:** *Installation*\
+**Previous:** [*Change history*](mpd4.md)\
+**Next:** [*Getting mpd*](mpd6.md)
 
 ------------------------------------------------------------------------
 
 ## []{#5}2. Installation
 
-### 2.1. [Getting mpd](mpd6.html#6)
+### 2.1. [Getting mpd](mpd6.md#6)
 
-### 2.2. [Installing mpd](mpd7.html#7)
+### 2.2. [Installing mpd](mpd7.md#7)
 
-### 2.3. [Building mpd](mpd8.html#8)
+### 2.3. [Building mpd](mpd8.md#8)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** *Installation*\
-**Previous:** [*Change history*](mpd4.html)\
-**Next:** [*Getting mpd*](mpd6.html)
+[*Mpd 5.9 User Manual*](README.md) **:** *Installation*\
+**Previous:** [*Change history*](mpd4.md)\
+**Next:** [*Getting mpd*](mpd6.md)

@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Installation*](mpd5.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Installation*](mpd5.md)
 **:** *Building mpd*\
-**Previous:** [*Installing mpd*](mpd7.html)\
-**Next:** [*Running Mpd*](mpd9.html)
+**Previous:** [*Installing mpd*](mpd7.md)\
+**Next:** [*Running Mpd*](mpd9.md)
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ The various build-time definitions in the Makefile are below:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Installation*](mpd5.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Installation*](mpd5.md)
 **:** *Building mpd*\
-**Previous:** [*Installing mpd*](mpd7.html)\
-**Next:** [*Running Mpd*](mpd9.html)
+**Previous:** [*Installing mpd*](mpd7.md)\
+**Next:** [*Running Mpd*](mpd9.md)

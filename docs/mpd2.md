@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Introduction*](mpd1.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Introduction*](mpd1.md)
 **:** *Overview*\
-**Previous:** [*Introduction*](mpd1.html)\
-**Next:** [*Organization of this manual*](mpd3.html)
+**Previous:** [*Introduction*](mpd1.md)\
+**Next:** [*Organization of this manual*](mpd3.md)
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ Page](http://sourceforge.net/projects/mpd/).
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Introduction*](mpd1.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Introduction*](mpd1.md)
 **:** *Overview*\
-**Previous:** [*Introduction*](mpd1.html)\
-**Next:** [*Organization of this manual*](mpd3.html)
+**Previous:** [*Introduction*](mpd1.md)\
+**Next:** [*Organization of this manual*](mpd3.md)

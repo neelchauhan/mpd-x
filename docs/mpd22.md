@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Bundle layer*\
-**Previous:** [*EAP*](mpd21.html)\
-**Next:** [*Encryption (ECP) layer*](mpd23.html)
+**Previous:** [*EAP*](mpd21.md)\
+**Next:** [*Encryption (ECP) layer*](mpd23.md)
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ The options available at the bundle layer are:
 **`ipcp`**
 
 :   Enable/Disable IPCP negotiation. For details see [the IPCP layer
-    chapter](mpd26.html#ipcp).
+    chapter](mpd26.md#ipcp).
 
     The default is enable.
 
@@ -94,14 +94,14 @@ The options available at the bundle layer are:
 **`compression`**
 
 :   Enable/Disable CCP (Compression Control Protocol) negotiation. For
-    details see [the compression layer chapter](mpd24.html#compression).
+    details see [the compression layer chapter](mpd24.md#compression).
 
     The default is disable.
 
 **`encryption`**
 
 :   Enable/Disable ECP (Encryption Control Protocol) negotiation. For
-    details see [the encryption layer chapter](mpd23.html#encryption).
+    details see [the encryption layer chapter](mpd23.md#encryption).
 
     The default is disable.
 
@@ -116,7 +116,7 @@ The options available at the bundle layer are:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Bundle layer*\
-**Previous:** [*EAP*](mpd21.html)\
-**Next:** [*Encryption (ECP) layer*](mpd23.html)
+**Previous:** [*EAP*](mpd21.md)\
+**Next:** [*Encryption (ECP) layer*](mpd23.md)

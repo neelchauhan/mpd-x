@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Internals*](mpd64.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
 *ToDo*\
-**Previous:** [*Internals*](mpd64.html)\
-**Next:** [*Authentication*](mpd66.html)
+**Previous:** [*Internals*](mpd64.md)\
+**Next:** [*Authentication*](mpd66.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ to MPD\'s maling list.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Internals*](mpd64.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
 *ToDo*\
-**Previous:** [*Internals*](mpd64.html)\
-**Next:** [*Authentication*](mpd66.html)
+**Previous:** [*Internals*](mpd64.md)\
+**Next:** [*Authentication*](mpd66.md)

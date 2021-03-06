@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Script commands*\
-**Previous:** [*Special variables*](mpd58.html)\
-**Next:** [*Errors*](mpd60.html)
+**Previous:** [*Special variables*](mpd58.md)\
+**Next:** [*Errors*](mpd60.md)
 
 ------------------------------------------------------------------------
 
@@ -149,7 +149,7 @@
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
 **:** *Script commands*\
-**Previous:** [*Special variables*](mpd58.html)\
-**Next:** [*Errors*](mpd60.html)
+**Previous:** [*Special variables*](mpd58.md)\
+**Next:** [*Errors*](mpd60.md)

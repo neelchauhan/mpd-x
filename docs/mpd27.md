@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *IPv6CP layer*\
-**Previous:** [*IPCP layer*](mpd26.html)\
-**Next:** [*Interface layer*](mpd28.html)
+**Previous:** [*IPCP layer*](mpd26.md)\
+**Next:** [*Interface layer*](mpd28.md)
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Now there is no additional configuration options present at this layer.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *IPv6CP layer*\
-**Previous:** [*IPCP layer*](mpd26.html)\
-**Next:** [*Interface layer*](mpd28.html)
+**Previous:** [*IPCP layer*](mpd26.md)\
+**Next:** [*Interface layer*](mpd28.md)

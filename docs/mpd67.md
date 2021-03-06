@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Internals*](mpd64.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
 *Hints for developers*\
-**Previous:** [*Authentication*](mpd66.html)\
-**Next:** [*References*](mpd68.html)
+**Previous:** [*Authentication*](mpd66.md)\
+**Next:** [*References*](mpd68.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ This chapter describes describes some hints for developers.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Internals*](mpd64.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
 *Hints for developers*\
-**Previous:** [*Authentication*](mpd66.html)\
-**Next:** [*References*](mpd68.html)
+**Previous:** [*Authentication*](mpd66.md)\
+**Next:** [*References*](mpd68.md)

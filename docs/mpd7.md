@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Installation*](mpd5.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Installation*](mpd5.md)
 **:** *Installing mpd*\
-**Previous:** [*Getting mpd*](mpd6.html)\
-**Next:** [*Building mpd*](mpd8.html)
+**Previous:** [*Getting mpd*](mpd6.md)\
+**Next:** [*Building mpd*](mpd8.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ files. These files are:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Installation*](mpd5.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Installation*](mpd5.md)
 **:** *Installing mpd*\
-**Previous:** [*Getting mpd*](mpd6.html)\
-**Next:** [*Building mpd*](mpd8.html)
+**Previous:** [*Getting mpd*](mpd6.md)\
+**Next:** [*Building mpd*](mpd8.md)

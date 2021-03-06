@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Traffic accounting*](mpd33.html) **:** *IP Accounting*\
-**Previous:** [*NetFlow*](mpd34.html)\
-**Next:** [*Accounting Update*](mpd36.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Traffic accounting*](mpd33.md) **:** *IP Accounting*\
+**Previous:** [*NetFlow*](mpd34.md)\
+**Next:** [*Accounting Update*](mpd36.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ particular interface `ipacct` options should be used.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Traffic accounting*](mpd33.html) **:** *IP Accounting*\
-**Previous:** [*NetFlow*](mpd34.html)\
-**Next:** [*Accounting Update*](mpd36.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Traffic accounting*](mpd33.md) **:** *IP Accounting*\
+**Previous:** [*NetFlow*](mpd34.md)\
+**Next:** [*Accounting Update*](mpd36.md)

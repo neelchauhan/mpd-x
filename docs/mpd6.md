@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Installation*](mpd5.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Installation*](mpd5.md)
 **:** *Getting mpd*\
-**Previous:** [*Installation*](mpd5.html)\
-**Next:** [*Installing mpd*](mpd7.html)
+**Previous:** [*Installation*](mpd5.md)\
+**Next:** [*Installing mpd*](mpd7.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ example if you want to change the set of device types supported by mpd.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Installation*](mpd5.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Installation*](mpd5.md)
 **:** *Getting mpd*\
-**Previous:** [*Installation*](mpd5.html)\
-**Next:** [*Installing mpd*](mpd7.html)
+**Previous:** [*Installation*](mpd5.md)\
+**Next:** [*Installing mpd*](mpd7.md)

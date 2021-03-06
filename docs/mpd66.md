@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Internals*](mpd64.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
 *Authentication*\
-**Previous:** [*ToDo*](mpd65.html)\
-**Next:** [*Hints for developers*](mpd67.html)
+**Previous:** [*ToDo*](mpd65.md)\
+**Next:** [*Hints for developers*](mpd67.md)
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ This chapter describes implementation specific details of MPD.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Internals*](mpd64.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*Internals*](mpd64.md) **:**
 *Authentication*\
-**Previous:** [*ToDo*](mpd65.html)\
-**Next:** [*Hints for developers*](mpd67.html)
+**Previous:** [*ToDo*](mpd65.md)\
+**Next:** [*Hints for developers*](mpd67.md)

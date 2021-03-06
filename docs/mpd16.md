@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Running Mpd*](mpd9.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
 *Mpd command line interface*\
-**Previous:** [*`mpd.script`*](mpd15.html)\
-**Next:** [*Configuring Mpd*](mpd17.html)
+**Previous:** [*`mpd.script`*](mpd15.md)\
+**Next:** [*Configuring Mpd*](mpd17.md)
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ is unambigous:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Running Mpd*](mpd9.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
 *Mpd command line interface*\
-**Previous:** [*`mpd.script`*](mpd15.html)\
-**Next:** [*Configuring Mpd*](mpd17.html)
+**Previous:** [*`mpd.script`*](mpd15.md)\
+**Next:** [*Configuring Mpd*](mpd17.md)

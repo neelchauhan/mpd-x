@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Troubleshooting*](mpd62.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Troubleshooting*](mpd62.md)
 **:** *Troubleshooting*\
-**Previous:** [*Troubleshooting*](mpd62.html)\
-**Next:** [*Internals*](mpd64.html)
+**Previous:** [*Troubleshooting*](mpd62.md)\
+**Next:** [*Internals*](mpd64.md)
 
 ------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ sourceforge.net mpd project forum.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Troubleshooting*](mpd62.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Troubleshooting*](mpd62.md)
 **:** *Troubleshooting*\
-**Previous:** [*Troubleshooting*](mpd62.html)\
-**Next:** [*Internals*](mpd64.html)
+**Previous:** [*Troubleshooting*](mpd62.md)\
+**Next:** [*Internals*](mpd64.md)

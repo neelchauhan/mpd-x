@@ -1,9 +1,9 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Authentication, Authorization and Accounting (AAA)*](mpd29.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Authentication, Authorization and Accounting (AAA)*](mpd29.md)
 **:** *RADIUS*\
 **Previous:** [*Authentication, Authorization and Accounting
-(AAA)*](mpd29.html)\
-**Next:** [*External authentication*](mpd31.html)
+(AAA)*](mpd29.md)\
+**Next:** [*External authentication*](mpd31.md)
 
 ------------------------------------------------------------------------
 
@@ -325,9 +325,9 @@ All of these commands apply to the currently active link.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Authentication, Authorization and Accounting (AAA)*](mpd29.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Authentication, Authorization and Accounting (AAA)*](mpd29.md)
 **:** *RADIUS*\
 **Previous:** [*Authentication, Authorization and Accounting
-(AAA)*](mpd29.html)\
-**Next:** [*External authentication*](mpd31.html)
+(AAA)*](mpd29.md)\
+**Next:** [*External authentication*](mpd31.md)

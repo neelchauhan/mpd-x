@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Traffic accounting*](mpd33.html) **:** *Accounting Update*\
-**Previous:** [*IP Accounting*](mpd35.html)\
-**Next:** [*Typed Accounting Update*](mpd37.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Traffic accounting*](mpd33.md) **:** *Accounting Update*\
+**Previous:** [*IP Accounting*](mpd35.md)\
+**Next:** [*Typed Accounting Update*](mpd37.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ traffic after compression, encryption and multilink were applied to it.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Traffic accounting*](mpd33.html) **:** *Accounting Update*\
-**Previous:** [*IP Accounting*](mpd35.html)\
-**Next:** [*Typed Accounting Update*](mpd37.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Traffic accounting*](mpd33.md) **:** *Accounting Update*\
+**Previous:** [*IP Accounting*](mpd35.md)\
+**Next:** [*Typed Accounting Update*](mpd37.md)

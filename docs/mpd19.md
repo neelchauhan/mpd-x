@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Mpd Layers*\
-**Previous:** [*General mpd commands*](mpd18.html)\
-**Next:** [*Link layer*](mpd20.html)
+**Previous:** [*General mpd commands*](mpd18.md)\
+**Next:** [*Link layer*](mpd20.md)
 
 ------------------------------------------------------------------------
 
@@ -15,16 +15,16 @@ link configuration and user auth name (see \'set link action \...\'
 command).
 
 In \"ppp terminator\" mode such hierarchy used:
-**[Interface](mpd28.html#interface)** -\> **[NCPs](mpd26.html#ipcp)**
--\> **[Compression](mpd24.html#compression)** -\>
-**[Encryption](mpd23.html#encryption)** -\>
-**[Bundle](mpd22.html#bundle)** -\> **[Links](mpd20.html#links)**
+**[Interface](mpd28.md#interface)** -\> **[NCPs](mpd26.md#ipcp)**
+-\> **[Compression](mpd24.md#compression)** -\>
+**[Encryption](mpd23.md#encryption)** -\>
+**[Bundle](mpd22.md#bundle)** -\> **[Links](mpd20.md#links)**
 
 In \"ppp repeater\" mode different hierarchy used:
-**[Link1](mpd20.html#links)** -\> **Repeater** -\>
-**[Link2](mpd20.html#links)**
+**[Link1](mpd20.md#links)** -\> **Repeater** -\>
+**[Link2](mpd20.md#links)**
 
-A **[link](mpd20.html#links)** is a single point-to-point connection
+A **[link](mpd20.md#links)** is a single point-to-point connection
 between the local machine and a remote peer machine, implemented by some
 kind of physical device, such as a serial modem connection or a virtual
 PPTP connection.
@@ -40,7 +40,7 @@ Each device has a specific *type* corresponding to one of the supported
 device types in mpd. The type dictates how the device dependent part is
 configured and what it\'s capabilities are.
 
-A **[bundle](mpd22.html#bundle)** is a collection of one or more links,
+A **[bundle](mpd22.md#bundle)** is a collection of one or more links,
 all connecting to the same remote peer, that together form a single
 multi-link PPP connection whose effective bandwidth is the sum of the
 bandwidths of the individual links.
@@ -56,7 +56,7 @@ and subtracts links depending on demand, and if so, according to what
 parameters.
 
 With each bundle is a corresponding
-**[interface](mpd28.html#interface)** layer, which corresponds directly
+**[interface](mpd28.md#interface)** layer, which corresponds directly
 to a system network interface accessible via `ifconfig(8)`, such as
 `ng0`. The interface layer handles configuring the interface, bringing
 it up or down as appropriate, assigning IP addresses, setting up static
@@ -65,15 +65,15 @@ responsible for implementing Dial-on-Demand and idle timeout
 functionality.
 
 Each bundle has several corresponding NCP layers as **[IP Control
-Protocol (IPCP)](mpd26.html#ipcp)** and **[IPv6 Control Protocol
-(IPv6CP)](mpd27.html#ipv6cp)**, which manages the protocol specific
+Protocol (IPCP)](mpd26.md#ipcp)** and **[IPv6 Control Protocol
+(IPv6CP)](mpd27.md#ipv6cp)**, which manages the protocol specific
 configuration of the interface. This layers handle the negotiation of
 local and remote addresses and TCP header compression, as well as other
 optional IP related information such as DNS servers and NBNS servers.
 
 Each bundle also has corresponding **[compression
-(CCP)](mpd24.html#compression)** and **[encryption
-(ECP)](mpd23.html#encryption)** layers, which allow you to enable and
+(CCP)](mpd24.md#compression)** and **[encryption
+(ECP)](mpd23.md#encryption)** layers, which allow you to enable and
 configure compression and encryption for data sent and received over the
 bundle.
 
@@ -89,7 +89,7 @@ everything.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Mpd Layers*\
-**Previous:** [*General mpd commands*](mpd18.html)\
-**Next:** [*Link layer*](mpd20.html)
+**Previous:** [*General mpd commands*](mpd18.md)\
+**Next:** [*Link layer*](mpd20.md)

@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Device Types*](mpd42.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *PPTP device type commands*\
-**Previous:** [*UDP device type commands*](mpd46.html)\
-**Next:** [*L2TP device type commands*](mpd48.html)
+**Previous:** [*UDP device type commands*](mpd46.md)\
+**Next:** [*L2TP device type commands*](mpd48.md)
 
 ------------------------------------------------------------------------
 
@@ -140,7 +140,7 @@ Available](http://support.microsoft.com/default.aspx?scid=KB;EN-US;Q191540)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Device Types*](mpd42.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *PPTP device type commands*\
-**Previous:** [*UDP device type commands*](mpd46.html)\
-**Next:** [*L2TP device type commands*](mpd48.html)
+**Previous:** [*UDP device type commands*](mpd46.md)\
+**Next:** [*L2TP device type commands*](mpd48.md)

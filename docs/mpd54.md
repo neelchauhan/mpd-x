@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
-**:** [*Events*](mpd52.html) **:** *Match events*\
-**Previous:** [*Timer events*](mpd53.html)\
-**Next:** [*Sets*](mpd55.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+**:** [*Events*](mpd52.md) **:** *Match events*\
+**Previous:** [*Timer events*](mpd53.md)\
+**Next:** [*Sets*](mpd55.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ below).
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
-**:** [*Events*](mpd52.html) **:** *Match events*\
-**Previous:** [*Timer events*](mpd53.html)\
-**Next:** [*Sets*](mpd55.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+**:** [*Events*](mpd52.md) **:** *Match events*\
+**Previous:** [*Timer events*](mpd53.md)\
+**Next:** [*Sets*](mpd55.md)

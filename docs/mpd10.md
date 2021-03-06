@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Running Mpd*](mpd9.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
 *Invoking mpd*\
-**Previous:** [*Running Mpd*](mpd9.html)\
-**Next:** [*Configuration file format*](mpd11.html)
+**Previous:** [*Running Mpd*](mpd9.md)\
+**Next:** [*Configuration file format*](mpd11.md)
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ Mpd responds to the following signals while it is running:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Running Mpd*](mpd9.html) **:**
+[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
 *Invoking mpd*\
-**Previous:** [*Running Mpd*](mpd9.html)\
-**Next:** [*Configuration file format*](mpd11.html)
+**Previous:** [*Running Mpd*](mpd9.md)\
+**Next:** [*Configuration file format*](mpd11.md)

@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Introduction*](mpd1.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Introduction*](mpd1.md)
 **:** *Change history*\
-**Previous:** [*Organization of this manual*](mpd3.html)\
-**Next:** [*Installation*](mpd5.html)
+**Previous:** [*Organization of this manual*](mpd3.md)\
+**Next:** [*Installation*](mpd5.md)
 
 ------------------------------------------------------------------------
 
@@ -694,7 +694,7 @@ Changes since version 3 (most of this work was sponsored by
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Introduction*](mpd1.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Introduction*](mpd1.md)
 **:** *Change history*\
-**Previous:** [*Organization of this manual*](mpd3.html)\
-**Next:** [*Installation*](mpd5.html)
+**Previous:** [*Organization of this manual*](mpd3.md)\
+**Next:** [*Installation*](mpd5.md)

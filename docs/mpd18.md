@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *General mpd commands*\
-**Previous:** [*Configuring Mpd*](mpd17.html)\
-**Next:** [*Mpd Layers*](mpd19.html)
+**Previous:** [*Configuring Mpd*](mpd17.md)\
+**Next:** [*Mpd Layers*](mpd19.md)
 
 ------------------------------------------------------------------------
 
@@ -259,7 +259,7 @@ specific layer.
     **`set global filter num add fltnum flt set global filter num clear`**
 
     :   These commands define or clear traffic filters to be used by
-        rules submitted by [AAA](mpd30.html#radius) during
+        rules submitted by [AAA](mpd30.md#radius) during
         authentication.
 
     **`set global enable option ... set global disable option ...`**
@@ -547,7 +547,7 @@ specific layer.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *General mpd commands*\
-**Previous:** [*Configuring Mpd*](mpd17.html)\
-**Next:** [*Mpd Layers*](mpd19.html)
+**Previous:** [*Configuring Mpd*](mpd17.md)\
+**Next:** [*Mpd Layers*](mpd19.md)

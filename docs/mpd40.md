@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Control console*\
-**Previous:** [*Network Address Translation (NAT)*](mpd39.html)\
-**Next:** [*Web server*](mpd41.html)
+**Previous:** [*Network Address Translation (NAT)*](mpd39.md)\
+**Next:** [*Web server*](mpd41.md)
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ connections are allowed.
 
     The default is \'127.0.0.1 5005\'.
 
-```{=html}
+```{.md}
 <!-- -->
 ```
 
@@ -54,7 +54,7 @@ connections are allowed.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Control console*\
-**Previous:** [*Network Address Translation (NAT)*](mpd39.html)\
-**Next:** [*Web server*](mpd41.html)
+**Previous:** [*Network Address Translation (NAT)*](mpd39.md)\
+**Next:** [*Web server*](mpd41.md)

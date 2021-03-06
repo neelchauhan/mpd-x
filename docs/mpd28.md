@@ -1,8 +1,8 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Interface layer*\
-**Previous:** [*IPv6CP layer*](mpd27.html)\
+**Previous:** [*IPv6CP layer*](mpd27.md)\
 **Next:** [*Authentication, Authorization and Accounting
-(AAA)*](mpd29.html)
+(AAA)*](mpd29.md)
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Note that while most of the time mpd is used for transmitting IP
 traffic, it is designed to support other (currently unimplemented)
 protocols such as AppleTalk, IPX, etc. This is why the Interface layer
 (which is protocol independent) is distinct from the [IP Control
-Protocol (IPCP) layer](mpd26.html#ipcp) which is specific to IP.
+Protocol (IPCP) layer](mpd26.md#ipcp) which is specific to IP.
 
 **`set iface name [ name ]`**
 
@@ -209,7 +209,7 @@ The options available at the interface layer are:
 
 **`nat`**
 
-:   Enable NAT for this bundle. See [the NAT chapter](mpd39.html#nat)
+:   Enable NAT for this bundle. See [the NAT chapter](mpd39.md#nat)
     for more information.
 
     The default is disable.
@@ -225,7 +225,7 @@ The options available at the interface layer are:
 **`netflow-once`**
 
 :   If enabled, the bundle will participate in NetFlow generation. See
-    [the NetFlow chapter](mpd34.html#netflow) for more information. The
+    [the NetFlow chapter](mpd34.md#netflow) for more information. The
     netflow-out option is like netflow-in, but generates NetFlow data
     for outgoing packets instead of incoming. If netflow-once enabled -
     packet will be accounted only once while in kernel.
@@ -235,15 +235,15 @@ The options available at the interface layer are:
 **`ipacct`**
 
 :   If enabled, the bundle will participate in IP accounting with
-    ng_ipacct node. See [the IP Accounting chapter](mpd35.html#ipacct)
+    ng_ipacct node. See [the IP Accounting chapter](mpd35.md#ipacct)
     for more information.
 
     The default is disable.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Interface layer*\
-**Previous:** [*IPv6CP layer*](mpd27.html)\
+**Previous:** [*IPv6CP layer*](mpd27.md)\
 **Next:** [*Authentication, Authorization and Accounting
-(AAA)*](mpd29.html)
+(AAA)*](mpd29.md)

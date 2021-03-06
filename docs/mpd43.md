@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Device Types*](mpd42.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *Modem type commands*\
-**Previous:** [*Device Types*](mpd42.html)\
-**Next:** [*Netgraph device type commands*](mpd44.html)
+**Previous:** [*Device Types*](mpd42.md)\
+**Next:** [*Netgraph device type commands*](mpd44.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ the currently active link has type **modem**.
 **`set modem var $variable string`**
 
 :   Pre-sets the chat script variable `$variable` to contain the string
-    `string`. See [the chapter on chat scripting](mpd50.html#chat) for
+    `string`. See [the chapter on chat scripting](mpd50.md#chat) for
     more information on chat variables.
 
 **`set modem speed speed`**
@@ -67,7 +67,7 @@ the currently active link has type **modem**.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Device Types*](mpd42.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *Modem type commands*\
-**Previous:** [*Device Types*](mpd42.html)\
-**Next:** [*Netgraph device type commands*](mpd44.html)
+**Previous:** [*Device Types*](mpd42.md)\
+**Next:** [*Netgraph device type commands*](mpd44.md)

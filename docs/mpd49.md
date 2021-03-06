@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Device Types*](mpd42.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *PPPoE device type commands*\
-**Previous:** [*L2TP device type commands*](mpd48.html)\
-**Next:** [*Chat Scripting*](mpd50.html)
+**Previous:** [*L2TP device type commands*](mpd48.md)\
+**Next:** [*Chat Scripting*](mpd50.md)
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ supported in server mode.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Device Types*](mpd42.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Device Types*](mpd42.md)
 **:** *PPPoE device type commands*\
-**Previous:** [*L2TP device type commands*](mpd48.html)\
-**Next:** [*Chat Scripting*](mpd50.html)
+**Previous:** [*L2TP device type commands*](mpd48.md)\
+**Next:** [*Chat Scripting*](mpd50.md)

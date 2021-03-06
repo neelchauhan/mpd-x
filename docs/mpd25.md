@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Compression (CCP) layer*](mpd24.html) **:** *MPPC protocol*\
-**Previous:** [*Compression (CCP) layer*](mpd24.html)\
-**Next:** [*IPCP layer*](mpd26.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Compression (CCP) layer*](mpd24.md) **:** *MPPC protocol*\
+**Previous:** [*Compression (CCP) layer*](mpd24.md)\
+**Next:** [*IPCP layer*](mpd26.md)
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ them using options below.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Compression (CCP) layer*](mpd24.html) **:** *MPPC protocol*\
-**Previous:** [*Compression (CCP) layer*](mpd24.html)\
-**Next:** [*IPCP layer*](mpd26.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Compression (CCP) layer*](mpd24.md) **:** *MPPC protocol*\
+**Previous:** [*Compression (CCP) layer*](mpd24.md)\
+**Next:** [*IPCP layer*](mpd26.md)

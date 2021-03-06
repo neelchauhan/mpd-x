@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Running Mpd*](mpd9.html) **:**
-[*Configuration file format*](mpd11.html) **:** *`mpd.secret`*\
-**Previous:** [*`mpd.conf`*](mpd13.html)\
-**Next:** [*`mpd.script`*](mpd15.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*Configuration file format*](mpd11.md) **:** *`mpd.secret`*\
+**Previous:** [*`mpd.conf`*](mpd13.md)\
+**Next:** [*`mpd.script`*](mpd15.md)
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ to users on the local machine running `ps(1)`.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Running Mpd*](mpd9.html) **:**
-[*Configuration file format*](mpd11.html) **:** *`mpd.secret`*\
-**Previous:** [*`mpd.conf`*](mpd13.html)\
-**Next:** [*`mpd.script`*](mpd15.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Running Mpd*](mpd9.md) **:**
+[*Configuration file format*](mpd11.md) **:** *`mpd.secret`*\
+**Previous:** [*`mpd.conf`*](mpd13.md)\
+**Next:** [*`mpd.script`*](mpd15.md)

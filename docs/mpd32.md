@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Dynamic Authorization*\
-**Previous:** [*External authentication*](mpd31.html)\
-**Next:** [*Traffic accounting*](mpd33.html)
+**Previous:** [*External authentication*](mpd31.md)\
+**Next:** [*Traffic accounting*](mpd33.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ such as speed, ACLs and so on, on-flight)
 **Control consoles**
 
 :   The basic method of controlling mpd is it\'s STDIN and TCP
-    **[consoles](mpd40.html#console)**.
+    **[consoles](mpd40.md#console)**.
 
     You can disconnect any session by connecting to console, selecting
     required session with any command for changing current context, such
@@ -28,8 +28,8 @@ such as speed, ACLs and so on, on-flight)
 
 **Web server**
 
-:   Mpd provides two **[Web](mpd41.html#web)** interfaces: human
-    (text/html) and binary (text/plain).
+:   Mpd provides two **[Web](mpd41.md#web)** interfaces: human
+    (text.md) and binary (text/plain).
 
     Human web interface allows you disconnect specified session just by
     clicking on respective *\[Close\]* link on the \"Current status
@@ -43,7 +43,7 @@ such as speed, ACLs and so on, on-flight)
 **RADIUS accounting**
 
 :   Mpd provides simple, but non-standard method of disconnecting
-    session using **[RADIUS](mpd30.html#radius)** accounting reply. To
+    session using **[RADIUS](mpd30.md#radius)** accounting reply. To
     disconnect arbitrary session you may just include *mpd-drop-user*
     attribute with nonzero value into any accounting reply packet.
 
@@ -174,7 +174,7 @@ such as speed, ACLs and so on, on-flight)
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Dynamic Authorization*\
-**Previous:** [*External authentication*](mpd31.html)\
-**Next:** [*Traffic accounting*](mpd33.html)
+**Previous:** [*External authentication*](mpd31.md)\
+**Next:** [*Traffic accounting*](mpd33.md)

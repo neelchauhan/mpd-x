@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *IP address pools*\
-**Previous:** [*Typed Accounting Update*](mpd37.html)\
-**Next:** [*Network Address Translation (NAT)*](mpd39.html)
+**Previous:** [*Typed Accounting Update*](mpd37.md)\
+**Next:** [*Network Address Translation (NAT)*](mpd39.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Framed-Pool attribute or ext-auth FRAMED_POOL attribute.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *IP address pools*\
-**Previous:** [*Typed Accounting Update*](mpd37.html)\
-**Next:** [*Network Address Translation (NAT)*](mpd39.html)
+**Previous:** [*Typed Accounting Update*](mpd37.md)\
+**Next:** [*Network Address Translation (NAT)*](mpd39.md)

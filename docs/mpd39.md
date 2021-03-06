@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Network Address Translation (NAT)*\
-**Previous:** [*IP address pools*](mpd38.html)\
-**Next:** [*Control console*](mpd40.html)
+**Previous:** [*IP address pools*](mpd38.md)\
+**Next:** [*Control console*](mpd40.md)
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ The following options are supported:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
 **:** *Network Address Translation (NAT)*\
-**Previous:** [*IP address pools*](mpd38.html)\
-**Next:** [*Control console*](mpd40.html)
+**Previous:** [*IP address pools*](mpd38.md)\
+**Next:** [*Control console*](mpd40.md)

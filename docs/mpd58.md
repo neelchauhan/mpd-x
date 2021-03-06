@@ -1,7 +1,7 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
-**:** [*Variables*](mpd57.html) **:** *Special variables*\
-**Previous:** [*Variables*](mpd57.html)\
-**Next:** [*Script commands*](mpd59.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+**:** [*Variables*](mpd57.md) **:** *Special variables*\
+**Previous:** [*Variables*](mpd57.md)\
+**Next:** [*Script commands*](mpd59.md)
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ These variables have special meaning in chat scripts:
     the value is `answer`, mpd assumes an incoming call has been
     answered. If the value is `ringback`, mpd will initiate an outgoing
     connection. See the chapter on [Modem type
-    commands](mpd43.html#modem) for more information.
+    commands](mpd43.md#modem) for more information.
 
 **`$$`**
 
@@ -69,7 +69,7 @@ These variables have special meaning in chat scripts:
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Chat Scripting*](mpd50.html)
-**:** [*Variables*](mpd57.html) **:** *Special variables*\
-**Previous:** [*Variables*](mpd57.html)\
-**Next:** [*Script commands*](mpd59.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Chat Scripting*](mpd50.md)
+**:** [*Variables*](mpd57.md) **:** *Special variables*\
+**Previous:** [*Variables*](mpd57.md)\
+**Next:** [*Script commands*](mpd59.md)

@@ -1,8 +1,8 @@
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Authentication, Authorization and Accounting (AAA)*](mpd29.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Authentication, Authorization and Accounting (AAA)*](mpd29.md)
 **:** *External authentication*\
-**Previous:** [*RADIUS*](mpd30.html)\
-**Next:** [*Dynamic Authorization*](mpd32.html)
+**Previous:** [*RADIUS*](mpd30.md)\
+**Next:** [*Dynamic Authorization*](mpd32.md)
 
 ------------------------------------------------------------------------
 
@@ -101,8 +101,8 @@ For description of most attributes look their RADIUS alternatives.
 
 ------------------------------------------------------------------------
 
-[*Mpd 5.9 User Manual*](mpd.html) **:** [*Configuring Mpd*](mpd17.html)
-**:** [*Authentication, Authorization and Accounting (AAA)*](mpd29.html)
+[*Mpd 5.9 User Manual*](README.md) **:** [*Configuring Mpd*](mpd17.md)
+**:** [*Authentication, Authorization and Accounting (AAA)*](mpd29.md)
 **:** *External authentication*\
-**Previous:** [*RADIUS*](mpd30.html)\
-**Next:** [*Dynamic Authorization*](mpd32.html)
+**Previous:** [*RADIUS*](mpd30.md)\
+**Next:** [*Dynamic Authorization*](mpd32.md)
